@@ -4,3 +4,6 @@
 [submodule "modules/pokechamp"]
 	path = modules/pokechamp
 	url = https://github.com/sethkarten/pokechamp
+[submodule "modules/metamon"]
+	path = modules/metamon
+	url = https://github.com/UT-Austin-RPL/metamon
