@@ -1,3 +1,6 @@
 [submodule "modules/pokemon-showdown"]
 	path = modules/pokemon-showdown
 	url = https://github.com/smogon/pokemon-showdown.git
+[submodule "modules/pokechamp"]
+	path = modules/pokechamp
+	url = https://github.com/sethkarten/pokechamp
