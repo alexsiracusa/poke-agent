@@ -12,7 +12,7 @@ processed_abilities = {}
 for num, (key, data) in enumerate(abilities.items()):
     # abilities with negative numbers are unofficial/not in the real games
     if data['num'] < 0:
-        pass
+        continue
 
     desc = abilities_text[key]
     ability = {
@@ -26,7 +26,7 @@ for num, (key, data) in enumerate(abilities.items()):
 
 
 with open('../../data/processed/abilities.json', 'w') as f:
-    json.dump(processed_abilities, f, indent=4, sort_keys=True)
+    json.dump(processed_abilities, f, indent=4, sort_keys=False)
 
 
 
