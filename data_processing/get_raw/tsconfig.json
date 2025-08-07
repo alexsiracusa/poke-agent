@@ -12,6 +12,6 @@
     "outDir": "./dist",
   },
   "include": [
-    "src/**/*.ts"
+    "get_raw/src/**/*.ts"
   ]
 }
