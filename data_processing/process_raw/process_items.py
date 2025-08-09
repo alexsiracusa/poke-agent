@@ -22,6 +22,7 @@ for num, (key, data) in enumerate(items.items()):
         'shortDesc': desc['shortDesc'],
         'isBerry': data['isBerry'] if 'isBerry' in desc else False,
         'isNonstandard': data['isNonstandard'] if 'isNonstandard' in data else False,
+        'gen': data['gen'],
     }
     processed_items[key] = item
 

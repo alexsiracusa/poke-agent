@@ -4,3744 +4,4279 @@
         "name": "Ability Shield",
         "shortDesc": "Holder's Ability cannot be changed, suppressed, or ignored by any effect.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 9
     },
     "abomasite": {
         "num": 674,
         "name": "Abomasite",
         "shortDesc": "If held by an Abomasnow, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "absolite": {
         "num": 677,
         "name": "Absolite",
         "shortDesc": "If held by an Absol, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "absorbbulb": {
         "num": 545,
         "name": "Absorb Bulb",
         "shortDesc": "Raises holder's Sp. Atk by 1 stage if hit by a Water-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 5
     },
     "adamantcrystal": {
         "num": 1777,
         "name": "Adamant Crystal",
         "shortDesc": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "adamantorb": {
         "num": 135,
         "name": "Adamant Orb",
         "shortDesc": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "adrenalineorb": {
         "num": 846,
         "name": "Adrenaline Orb",
         "shortDesc": "Raises holder's Speed by 1 stage if it gets affected by Intimidate. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 7
     },
     "aerodactylite": {
         "num": 672,
         "name": "Aerodactylite",
         "shortDesc": "If held by an Aerodactyl, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "aggronite": {
         "num": 667,
         "name": "Aggronite",
         "shortDesc": "If held by an Aggron, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "aguavberry": {
         "num": 162,
         "name": "Aguav Berry",
         "shortDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -SpD Nature. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "airballoon": {
         "num": 541,
         "name": "Air Balloon",
         "shortDesc": "Holder is immune to Ground-type attacks. Pops when holder is hit.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 5
     },
     "alakazite": {
         "num": 679,
         "name": "Alakazite",
         "shortDesc": "If held by an Alakazam, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "aloraichiumz": {
         "num": 803,
         "name": "Aloraichium Z",
         "shortDesc": "If held by an Alolan Raichu with Thunderbolt, it can use Stoked Sparksurfer.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "altarianite": {
         "num": 755,
         "name": "Altarianite",
         "shortDesc": "If held by an Altaria, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "ampharosite": {
         "num": 658,
         "name": "Ampharosite",
         "shortDesc": "If held by an Ampharos, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "apicotberry": {
         "num": 205,
         "name": "Apicot Berry",
         "shortDesc": "Raises holder's Sp. Def by 1 stage when at 1/4 max HP or less. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "armorfossil": {
         "num": 104,
         "name": "Armor Fossil",
         "shortDesc": "Can be revived into Shieldon.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 4
     },
     "aspearberry": {
         "num": 153,
         "name": "Aspear Berry",
         "shortDesc": "Holder is cured if it is frozen. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "assaultvest": {
         "num": 640,
         "name": "Assault Vest",
         "shortDesc": "Holder's Sp. Def is 1.5x, but it can only select damaging moves.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 6
     },
     "audinite": {
         "num": 757,
         "name": "Audinite",
         "shortDesc": "If held by an Audino, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "auspiciousarmor": {
         "num": 2344,
         "name": "Auspicious Armor",
         "shortDesc": "Evolves Charcadet into Armarouge when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 9
     },
     "babiriberry": {
         "num": 199,
         "name": "Babiri Berry",
         "shortDesc": "Halves damage taken from a supereffective Steel-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "banettite": {
         "num": 668,
         "name": "Banettite",
         "shortDesc": "If held by a Banette, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "beastball": {
         "num": 851,
         "name": "Beast Ball",
         "shortDesc": "A special Poke Ball designed to catch Ultra Beasts.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 7
     },
     "beedrillite": {
         "num": 770,
         "name": "Beedrillite",
         "shortDesc": "If held by a Beedrill, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "belueberry": {
         "num": 183,
         "name": "Belue Berry",
         "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "berryjuice": {
         "num": 43,
         "name": "Berry Juice",
         "shortDesc": "Restores 20 HP when at 1/2 max HP or less. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 2
     },
     "berrysweet": {
         "num": 1111,
         "name": "Berry Sweet",
         "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "bignugget": {
         "num": 581,
         "name": "Big Nugget",
         "shortDesc": "A big nugget of pure gold that gives off a lustrous gleam.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 5
     },
     "bigroot": {
         "num": 296,
         "name": "Big Root",
         "shortDesc": "Holder gains 1.3x HP from draining/Aqua Ring/Ingrain/Leech Seed/Strength Sap.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "bindingband": {
         "num": 544,
         "name": "Binding Band",
         "shortDesc": "Holder's partial-trapping moves deal 1/6 max HP per turn instead of 1/8.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 5
     },
     "blackbelt": {
         "num": 241,
         "name": "Black Belt",
         "shortDesc": "Holder's Fighting-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "blackglasses": {
         "num": 240,
         "name": "Black Glasses",
         "shortDesc": "Holder's Dark-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "blacksludge": {
         "num": 281,
         "name": "Black Sludge",
         "shortDesc": "Each turn, if holder is a Poison type, restores 1/16 max HP; loses 1/8 if not.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "blastoisinite": {
         "num": 661,
         "name": "Blastoisinite",
         "shortDesc": "If held by a Blastoise, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "blazikenite": {
         "num": 664,
         "name": "Blazikenite",
         "shortDesc": "If held by a Blaziken, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "blueorb": {
         "num": 535,
         "name": "Blue Orb",
         "shortDesc": "If held by a Kyogre, this item triggers its Primal Reversion in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "blukberry": {
         "num": 165,
         "name": "Bluk Berry",
         "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "blunderpolicy": {
         "num": 1121,
         "name": "Blunder Policy",
         "shortDesc": "If the holder misses due to accuracy, its Speed is raised by 2 stages. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "boosterenergy": {
         "num": 1880,
         "name": "Booster Energy",
         "shortDesc": "Activates the Protosynthesis or Quark Drive Abilities. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 9
     },
     "bottlecap": {
         "num": 795,
         "name": "Bottle Cap",
         "shortDesc": "Used for Hyper Training. One of a Pokemon's stats is calculated with an IV of 31.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 7
     },
     "brightpowder": {
         "num": 213,
         "name": "Bright Powder",
         "shortDesc": "The accuracy of attacks against the holder is 0.9x.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "buggem": {
         "num": 558,
         "name": "Bug Gem",
         "shortDesc": "Holder's first successful Bug-type attack will have 1.3x power. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "bugmemory": {
         "num": 909,
         "name": "Bug Memory",
         "shortDesc": "Holder's Multi-Attack is Bug type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "buginiumz": {
         "num": 787,
         "name": "Buginium Z",
         "shortDesc": "If holder has a Bug move, this item allows it to use a Bug Z-Move.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "burndrive": {
         "num": 118,
         "name": "Burn Drive",
         "shortDesc": "Holder's Techno Blast is Fire type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "cameruptite": {
         "num": 767,
         "name": "Cameruptite",
         "shortDesc": "If held by a Camerupt, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "cellbattery": {
         "num": 546,
         "name": "Cell Battery",
         "shortDesc": "Raises holder's Attack by 1 if hit by an Electric-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 5
     },
     "charcoal": {
         "num": 249,
         "name": "Charcoal",
         "shortDesc": "Holder's Fire-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "charizarditex": {
         "num": 660,
         "name": "Charizardite X",
         "shortDesc": "If held by a Charizard, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "charizarditey": {
         "num": 678,
         "name": "Charizardite Y",
         "shortDesc": "If held by a Charizard, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "chartiberry": {
         "num": 195,
         "name": "Charti Berry",
         "shortDesc": "Halves damage taken from a supereffective Rock-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "cheriberry": {
         "num": 149,
         "name": "Cheri Berry",
         "shortDesc": "Holder cures itself if it is paralyzed. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "cherishball": {
         "num": 16,
         "name": "Cherish Ball",
         "shortDesc": "A rare Poke Ball that has been crafted to commemorate an occasion.",
         "isBerry": false,
-        "isNonstandard": "Unobtainable"
+        "isNonstandard": "Unobtainable",
+        "gen": 4
     },
     "chestoberry": {
         "num": 150,
         "name": "Chesto Berry",
         "shortDesc": "Holder wakes up if it is asleep. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "chilanberry": {
         "num": 200,
         "name": "Chilan Berry",
         "shortDesc": "Halves damage taken from a Normal-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "chilldrive": {
         "num": 119,
         "name": "Chill Drive",
         "shortDesc": "Holder's Techno Blast is Ice type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "chippedpot": {
         "num": 1254,
         "name": "Chipped Pot",
         "shortDesc": "Evolves Sinistea-Antique into Polteageist-Antique when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "choiceband": {
         "num": 220,
         "name": "Choice Band",
         "shortDesc": "Holder's Attack is 1.5x, but it can only select the first move it executes.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "choicescarf": {
         "num": 287,
         "name": "Choice Scarf",
         "shortDesc": "Holder's Speed is 1.5x, but it can only select the first move it executes.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "choicespecs": {
         "num": 297,
         "name": "Choice Specs",
         "shortDesc": "Holder's Sp. Atk is 1.5x, but it can only select the first move it executes.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "chopleberry": {
         "num": 189,
         "name": "Chople Berry",
         "shortDesc": "Halves damage taken from a supereffective Fighting-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "clawfossil": {
         "num": 100,
         "name": "Claw Fossil",
         "shortDesc": "Can be revived into Anorith.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "clearamulet": {
         "num": 1882,
         "name": "Clear Amulet",
         "shortDesc": "Prevents other Pokemon from lowering the holder's stat stages.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 9
     },
     "cloversweet": {
         "num": 1112,
         "name": "Clover Sweet",
         "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "cobaberry": {
         "num": 192,
         "name": "Coba Berry",
         "shortDesc": "Halves damage taken from a supereffective Flying-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "colburberry": {
         "num": 198,
         "name": "Colbur Berry",
         "shortDesc": "Halves damage taken from a supereffective Dark-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "cornerstonemask": {
         "num": 2406,
         "name": "Cornerstone Mask",
         "shortDesc": "Ogerpon-Cornerstone: 1.2x power attacks; Terastallize to gain Embody Aspect.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 9
     },
     "cornnberry": {
         "num": 175,
         "name": "Cornn Berry",
         "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "coverfossil": {
         "num": 572,
         "name": "Cover Fossil",
         "shortDesc": "Can be revived into Tirtouga.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "covertcloak": {
         "num": 1885,
         "name": "Covert Cloak",
         "shortDesc": "Holder is not affected by the secondary effect of another Pokemon's attack.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 9
     },
     "crackedpot": {
         "num": 1253,
         "name": "Cracked Pot",
         "shortDesc": "Evolves Sinistea into Polteageist when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "custapberry": {
         "num": 210,
         "name": "Custap Berry",
         "shortDesc": "Holder moves first in its priority bracket when at 1/4 max HP or less. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "damprock": {
         "num": 285,
         "name": "Damp Rock",
         "shortDesc": "Holder's use of Rain Dance lasts 8 turns instead of 5.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "darkgem": {
         "num": 562,
         "name": "Dark Gem",
         "shortDesc": "Holder's first successful Dark-type attack will have 1.3x power. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "darkmemory": {
         "num": 919,
         "name": "Dark Memory",
         "shortDesc": "Holder's Multi-Attack is Dark type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "darkiniumz": {
         "num": 791,
         "name": "Darkinium Z",
         "shortDesc": "If holder has a Dark move, this item allows it to use a Dark Z-Move.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "dawnstone": {
         "num": 109,
         "name": "Dawn Stone",
         "shortDesc": "Evolves certain species of Pokemon when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "decidiumz": {
         "num": 798,
         "name": "Decidium Z",
         "shortDesc": "If held by a Decidueye with Spirit Shackle, it can use Sinister Arrow Raid.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "deepseascale": {
         "num": 227,
         "name": "Deep Sea Scale",
         "shortDesc": "If held by a Clamperl, its Sp. Def is doubled.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "deepseatooth": {
         "num": 226,
         "name": "Deep Sea Tooth",
         "shortDesc": "If held by a Clamperl, its Sp. Atk is doubled.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "destinyknot": {
         "num": 280,
         "name": "Destiny Knot",
         "shortDesc": "If holder becomes infatuated, the other Pokemon also becomes infatuated.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "diancite": {
         "num": 764,
         "name": "Diancite",
         "shortDesc": "If held by a Diancie, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "diveball": {
         "num": 7,
         "name": "Dive Ball",
         "shortDesc": "A Poke Ball that works especially well on Pokemon that live underwater.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "domefossil": {
         "num": 102,
         "name": "Dome Fossil",
         "shortDesc": "Can be revived into Kabuto.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "dousedrive": {
         "num": 116,
         "name": "Douse Drive",
         "shortDesc": "Holder's Techno Blast is Water type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "dracoplate": {
         "num": 311,
         "name": "Draco Plate",
         "shortDesc": "Holder's Dragon-type attacks have 1.2x power. Judgment is Dragon type.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "dragonfang": {
         "num": 250,
         "name": "Dragon Fang",
         "shortDesc": "Holder's Dragon-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "dragongem": {
         "num": 561,
         "name": "Dragon Gem",
         "shortDesc": "Holder's first successful Dragon-type attack will have 1.3x power. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "dragonmemory": {
         "num": 918,
         "name": "Dragon Memory",
         "shortDesc": "Holder's Multi-Attack is Dragon type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "dragonscale": {
         "num": 235,
         "name": "Dragon Scale",
         "shortDesc": "Evolves Seadra into Kingdra when traded.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "dragoniumz": {
         "num": 790,
         "name": "Dragonium Z",
         "shortDesc": "If holder has a Dragon move, this item allows it to use a Dragon Z-Move.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "dreadplate": {
         "num": 312,
         "name": "Dread Plate",
         "shortDesc": "Holder's Dark-type attacks have 1.2x power. Judgment is Dark type.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "dreamball": {
         "num": 576,
         "name": "Dream Ball",
         "shortDesc": "A Poke Ball that makes it easier to catch wild Pok\u00e9mon while they're asleep.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 5
     },
     "dubiousdisc": {
         "num": 324,
         "name": "Dubious Disc",
         "shortDesc": "Evolves Porygon2 into Porygon-Z when traded.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "durinberry": {
         "num": 182,
         "name": "Durin Berry",
         "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "duskball": {
         "num": 13,
         "name": "Dusk Ball",
         "shortDesc": "A Poke Ball that makes it easier to catch wild Pokemon at night or in caves.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "duskstone": {
         "num": 108,
         "name": "Dusk Stone",
         "shortDesc": "Evolves certain species of Pokemon when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "earthplate": {
         "num": 305,
         "name": "Earth Plate",
         "shortDesc": "Holder's Ground-type attacks have 1.2x power. Judgment is Ground type.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "eeviumz": {
         "num": 805,
         "name": "Eevium Z",
         "shortDesc": "If held by an Eevee with Last Resort, it can use Extreme Evoboost.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "ejectbutton": {
         "num": 547,
         "name": "Eject Button",
         "shortDesc": "If holder survives a hit, it immediately switches out to a chosen ally. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 5
     },
     "ejectpack": {
         "num": 1119,
         "name": "Eject Pack",
         "shortDesc": "If the holder's stat stages are lowered, it switches to a chosen ally. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "electirizer": {
         "num": 322,
         "name": "Electirizer",
         "shortDesc": "Evolves Electabuzz into Electivire when traded.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "electricgem": {
         "num": 550,
         "name": "Electric Gem",
         "shortDesc": "Holder's first successful Electric-type attack will have 1.3x power. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "electricmemory": {
         "num": 915,
         "name": "Electric Memory",
         "shortDesc": "Holder's Multi-Attack is Electric type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "electricseed": {
         "num": 881,
         "name": "Electric Seed",
         "shortDesc": "If the terrain is Electric Terrain, raises holder's Defense by 1 stage. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 7
     },
     "electriumz": {
         "num": 779,
         "name": "Electrium Z",
         "shortDesc": "If holder has an Electric move, this item allows it to use an Electric Z-Move.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "enigmaberry": {
         "num": 208,
         "name": "Enigma Berry",
         "shortDesc": "Restores 1/4 max HP after holder is hit by a supereffective move. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "eviolite": {
         "num": 538,
         "name": "Eviolite",
         "shortDesc": "If holder's species can evolve, its Defense and Sp. Def are 1.5x.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 5
     },
     "expertbelt": {
         "num": 268,
         "name": "Expert Belt",
         "shortDesc": "Holder's attacks that are super effective against the target do 1.2x damage.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "fairiumz": {
         "num": 793,
         "name": "Fairium Z",
         "shortDesc": "If holder has a Fairy move, this item allows it to use a Fairy Z-Move.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "fairyfeather": {
         "num": 2401,
         "name": "Fairy Feather",
         "shortDesc": "Holder's Fairy-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 9
     },
     "fairygem": {
         "num": 715,
         "name": "Fairy Gem",
         "shortDesc": "Holder's first successful Fairy-type attack will have 1.3x power. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "fairymemory": {
         "num": 920,
         "name": "Fairy Memory",
         "shortDesc": "Holder's Multi-Attack is Fairy type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "fastball": {
         "num": 492,
         "name": "Fast Ball",
         "shortDesc": "A Poke Ball that makes it easier to catch Pokemon which are quick to run away.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "fightinggem": {
         "num": 553,
         "name": "Fighting Gem",
         "shortDesc": "Holder's first successful Fighting-type attack will have 1.3x power. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "fightingmemory": {
         "num": 904,
         "name": "Fighting Memory",
         "shortDesc": "Holder's Multi-Attack is Fighting type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "fightiniumz": {
         "num": 782,
         "name": "Fightinium Z",
         "shortDesc": "If holder has a Fighting move, this item allows it to use a Fighting Z-Move.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "figyberry": {
         "num": 159,
         "name": "Figy Berry",
         "shortDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -Atk Nature. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "firegem": {
         "num": 548,
         "name": "Fire Gem",
         "shortDesc": "Holder's first successful Fire-type attack will have 1.3x power. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "firememory": {
         "num": 912,
         "name": "Fire Memory",
         "shortDesc": "Holder's Multi-Attack is Fire type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "firestone": {
         "num": 82,
         "name": "Fire Stone",
         "shortDesc": "Evolves certain species of Pokemon when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 1
     },
     "firiumz": {
         "num": 777,
         "name": "Firium Z",
         "shortDesc": "If holder has a Fire move, this item allows it to use a Fire Z-Move.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "fistplate": {
         "num": 303,
         "name": "Fist Plate",
         "shortDesc": "Holder's Fighting-type attacks have 1.2x power. Judgment is Fighting type.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "flameorb": {
         "num": 273,
         "name": "Flame Orb",
         "shortDesc": "At the end of every turn, this item attempts to burn the holder.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "flameplate": {
         "num": 298,
         "name": "Flame Plate",
         "shortDesc": "Holder's Fire-type attacks have 1.2x power. Judgment is Fire type.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "floatstone": {
         "num": 539,
         "name": "Float Stone",
         "shortDesc": "Holder's weight is halved.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 5
     },
     "flowersweet": {
         "num": 1113,
         "name": "Flower Sweet",
         "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "flyinggem": {
         "num": 556,
         "name": "Flying Gem",
         "shortDesc": "Holder's first successful Flying-type attack will have 1.3x power. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "flyingmemory": {
         "num": 905,
         "name": "Flying Memory",
         "shortDesc": "Holder's Multi-Attack is Flying type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "flyiniumz": {
         "num": 785,
         "name": "Flyinium Z",
         "shortDesc": "If holder has a Flying move, this item allows it to use a Flying Z-Move.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "focusband": {
         "num": 230,
         "name": "Focus Band",
         "shortDesc": "Holder has a 10% chance to survive an attack that would KO it with 1 HP.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "focussash": {
         "num": 275,
         "name": "Focus Sash",
         "shortDesc": "If holder's HP is full, will survive an attack that would KO it with 1 HP. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "fossilizedbird": {
         "num": 1105,
         "name": "Fossilized Bird",
         "shortDesc": "Can revive into Dracozolt with Fossilized Drake or Arctozolt with Fossilized Dino.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "fossilizeddino": {
         "num": 1108,
         "name": "Fossilized Dino",
         "shortDesc": "Can revive into Arctovish with Fossilized Fish or Arctozolt with Fossilized Bird.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "fossilizeddrake": {
         "num": 1107,
         "name": "Fossilized Drake",
         "shortDesc": "Can revive into Dracozolt with Fossilized Bird or Dracovish with Fossilized Fish.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "fossilizedfish": {
         "num": 1106,
         "name": "Fossilized Fish",
         "shortDesc": "Can revive into Dracovish with Fossilized Drake or Arctovish with Fossilized Dino.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "friendball": {
         "num": 497,
         "name": "Friend Ball",
         "shortDesc": "A Poke Ball that makes caught Pokemon more friendly.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "fullincense": {
         "num": 316,
         "name": "Full Incense",
         "shortDesc": "Holder moves last in its priority bracket.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 4
     },
     "galaricacuff": {
         "num": 1582,
         "name": "Galarica Cuff",
         "shortDesc": "Evolves Galarian Slowpoke into Galarian Slowbro when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "galaricawreath": {
         "num": 1592,
         "name": "Galarica Wreath",
         "shortDesc": "Evolves Galarian Slowpoke into Galarian Slowking when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "galladite": {
         "num": 756,
         "name": "Galladite",
         "shortDesc": "If held by a Gallade, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "ganlonberry": {
         "num": 202,
         "name": "Ganlon Berry",
         "shortDesc": "Raises holder's Defense by 1 stage when at 1/4 max HP or less. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "garchompite": {
         "num": 683,
         "name": "Garchompite",
         "shortDesc": "If held by a Garchomp, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "gardevoirite": {
         "num": 657,
         "name": "Gardevoirite",
         "shortDesc": "If held by a Gardevoir, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "gengarite": {
         "num": 656,
         "name": "Gengarite",
         "shortDesc": "If held by a Gengar, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "ghostgem": {
         "num": 560,
         "name": "Ghost Gem",
         "shortDesc": "Holder's first successful Ghost-type attack will have 1.3x power. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "ghostmemory": {
         "num": 910,
         "name": "Ghost Memory",
         "shortDesc": "Holder's Multi-Attack is Ghost type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "ghostiumz": {
         "num": 789,
         "name": "Ghostium Z",
         "shortDesc": "If holder has a Ghost move, this item allows it to use a Ghost Z-Move.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "glalitite": {
         "num": 763,
         "name": "Glalitite",
         "shortDesc": "If held by a Glalie, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "goldbottlecap": {
         "num": 796,
         "name": "Gold Bottle Cap",
         "shortDesc": "Used for Hyper Training. All of a Pokemon's stats are calculated with an IV of 31.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 7
     },
     "grassgem": {
         "num": 551,
         "name": "Grass Gem",
         "shortDesc": "Holder's first successful Grass-type attack will have 1.3x power. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "grassmemory": {
         "num": 914,
         "name": "Grass Memory",
         "shortDesc": "Holder's Multi-Attack is Grass type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "grassiumz": {
         "num": 780,
         "name": "Grassium Z",
         "shortDesc": "If holder has a Grass move, this item allows it to use a Grass Z-Move.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "grassyseed": {
         "num": 884,
         "name": "Grassy Seed",
         "shortDesc": "If the terrain is Grassy Terrain, raises holder's Defense by 1 stage. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 7
     },
     "greatball": {
         "num": 3,
         "name": "Great Ball",
         "shortDesc": "A high-performance Ball that provides a higher catch rate than a Poke Ball.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 1
     },
     "grepaberry": {
         "num": 173,
         "name": "Grepa Berry",
         "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "gripclaw": {
         "num": 286,
         "name": "Grip Claw",
         "shortDesc": "Holder's partial-trapping moves always last 7 turns.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "griseouscore": {
         "num": 1779,
         "name": "Griseous Core",
         "shortDesc": "If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "griseousorb": {
         "num": 112,
         "name": "Griseous Orb",
         "shortDesc": "If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "groundgem": {
         "num": 555,
         "name": "Ground Gem",
         "shortDesc": "Holder's first successful Ground-type attack will have 1.3x power. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "groundmemory": {
         "num": 907,
         "name": "Ground Memory",
         "shortDesc": "Holder's Multi-Attack is Ground type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "groundiumz": {
         "num": 784,
         "name": "Groundium Z",
         "shortDesc": "If holder has a Ground move, this item allows it to use a Ground Z-Move.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "gyaradosite": {
         "num": 676,
         "name": "Gyaradosite",
         "shortDesc": "If held by a Gyarados, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "habanberry": {
         "num": 197,
         "name": "Haban Berry",
         "shortDesc": "Halves damage taken from a supereffective Dragon-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "hardstone": {
         "num": 238,
         "name": "Hard Stone",
         "shortDesc": "Holder's Rock-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "healball": {
         "num": 14,
         "name": "Heal Ball",
         "shortDesc": "A remedial Poke Ball that restores the caught Pokemon's HP and status problem.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "hearthflamemask": {
         "num": 2408,
         "name": "Hearthflame Mask",
         "shortDesc": "Ogerpon-Hearthflame: 1.2x power attacks; Terastallize to gain Embody Aspect.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 9
     },
     "heatrock": {
         "num": 284,
         "name": "Heat Rock",
         "shortDesc": "Holder's use of Sunny Day lasts 8 turns instead of 5.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "heavyball": {
         "num": 495,
         "name": "Heavy Ball",
         "shortDesc": "A Poke Ball for catching very heavy Pokemon.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "heavydutyboots": {
         "num": 1120,
         "name": "Heavy-Duty Boots",
         "shortDesc": "When switching in, the holder is unaffected by hazards on its side of the field.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "helixfossil": {
         "num": 101,
         "name": "Helix Fossil",
         "shortDesc": "Can be revived into Omanyte.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "heracronite": {
         "num": 680,
         "name": "Heracronite",
         "shortDesc": "If held by a Heracross, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "hondewberry": {
         "num": 172,
         "name": "Hondew Berry",
         "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "houndoominite": {
         "num": 666,
         "name": "Houndoominite",
         "shortDesc": "If held by a Houndoom, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "iapapaberry": {
         "num": 163,
         "name": "Iapapa Berry",
         "shortDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -Def Nature. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "icegem": {
         "num": 552,
         "name": "Ice Gem",
         "shortDesc": "Holder's first successful Ice-type attack will have 1.3x power. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "icememory": {
         "num": 917,
         "name": "Ice Memory",
         "shortDesc": "Holder's Multi-Attack is Ice type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "icestone": {
         "num": 849,
         "name": "Ice Stone",
         "shortDesc": "Evolves certain species of Pokemon when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 7
     },
     "icicleplate": {
         "num": 302,
         "name": "Icicle Plate",
         "shortDesc": "Holder's Ice-type attacks have 1.2x power. Judgment is Ice type.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "iciumz": {
         "num": 781,
         "name": "Icium Z",
         "shortDesc": "If holder has an Ice move, this item allows it to use an Ice Z-Move.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "icyrock": {
         "num": 282,
         "name": "Icy Rock",
         "shortDesc": "Holder's use of Snowscape lasts 8 turns instead of 5.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "inciniumz": {
         "num": 799,
         "name": "Incinium Z",
         "shortDesc": "If held by an Incineroar with Darkest Lariat, it can use Malicious Moonsault.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "insectplate": {
         "num": 308,
         "name": "Insect Plate",
         "shortDesc": "Holder's Bug-type attacks have 1.2x power. Judgment is Bug type.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "ironball": {
         "num": 278,
         "name": "Iron Ball",
         "shortDesc": "Holder is grounded, Speed halved. If Flying type, takes neutral Ground damage.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "ironplate": {
         "num": 313,
         "name": "Iron Plate",
         "shortDesc": "Holder's Steel-type attacks have 1.2x power. Judgment is Steel type.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "jabocaberry": {
         "num": 211,
         "name": "Jaboca Berry",
         "shortDesc": "If holder is hit by a physical move, attacker loses 1/8 of its max HP. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "jawfossil": {
         "num": 710,
         "name": "Jaw Fossil",
         "shortDesc": "Can be revived into Tyrunt.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "kasibberry": {
         "num": 196,
         "name": "Kasib Berry",
         "shortDesc": "Halves damage taken from a supereffective Ghost-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "kebiaberry": {
         "num": 190,
         "name": "Kebia Berry",
         "shortDesc": "Halves damage taken from a supereffective Poison-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "keeberry": {
         "num": 687,
         "name": "Kee Berry",
         "shortDesc": "Raises holder's Defense by 1 stage after it is hit by a physical attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 6
     },
     "kelpsyberry": {
         "num": 170,
         "name": "Kelpsy Berry",
         "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "kangaskhanite": {
         "num": 675,
         "name": "Kangaskhanite",
         "shortDesc": "If held by a Kangaskhan, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "kingsrock": {
         "num": 221,
         "name": "King's Rock",
         "shortDesc": "Holder's attacks without a chance to flinch gain a 10% chance to flinch.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "kommoniumz": {
         "num": 926,
         "name": "Kommonium Z",
         "shortDesc": "If held by a Kommo-o with Clanging Scales, it can use Clangorous Soulblaze.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "laggingtail": {
         "num": 279,
         "name": "Lagging Tail",
         "shortDesc": "Holder moves last in its priority bracket.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "lansatberry": {
         "num": 206,
         "name": "Lansat Berry",
         "shortDesc": "Holder gains the Focus Energy effect when at 1/4 max HP or less. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "latiasite": {
         "num": 684,
         "name": "Latiasite",
         "shortDesc": "If held by a Latias, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "latiosite": {
         "num": 685,
         "name": "Latiosite",
         "shortDesc": "If held by a Latios, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "laxincense": {
         "num": 255,
         "name": "Lax Incense",
         "shortDesc": "The accuracy of attacks against the holder is 0.9x.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "leafstone": {
         "num": 85,
         "name": "Leaf Stone",
         "shortDesc": "Evolves certain species of Pokemon when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 1
     },
     "leek": {
         "num": 259,
         "name": "Leek",
         "shortDesc": "If held by a Farfetch\u2019d or Sirfetch\u2019d, its critical hit ratio is raised by 2 stages.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "leftovers": {
         "num": 234,
         "name": "Leftovers",
         "shortDesc": "At the end of every turn, holder restores 1/16 of its max HP.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "leppaberry": {
         "num": 154,
         "name": "Leppa Berry",
         "shortDesc": "Restores 10 PP to the first of the holder's moves to reach 0 PP. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "levelball": {
         "num": 493,
         "name": "Level Ball",
         "shortDesc": "A Poke Ball for catching Pokemon that are a lower level than your own.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "liechiberry": {
         "num": 201,
         "name": "Liechi Berry",
         "shortDesc": "Raises holder's Attack by 1 stage when at 1/4 max HP or less. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "lifeorb": {
         "num": 270,
         "name": "Life Orb",
         "shortDesc": "Holder's attacks do 1.3x damage, and it loses 1/10 its max HP after the attack.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "lightball": {
         "num": 236,
         "name": "Light Ball",
         "shortDesc": "If held by a Pikachu, its Attack and Sp. Atk are doubled.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "lightclay": {
         "num": 269,
         "name": "Light Clay",
         "shortDesc": "Holder's use of Aurora Veil, Light Screen, or Reflect lasts 8 turns instead of 5.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "loadeddice": {
         "num": 1886,
         "name": "Loaded Dice",
         "shortDesc": "Holder's moves that hit 2-5 times hit 4-5 times; Population Bomb hits 4-10 times.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 9
     },
     "lopunnite": {
         "num": 768,
         "name": "Lopunnite",
         "shortDesc": "If held by a Lopunny, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "loveball": {
         "num": 496,
         "name": "Love Ball",
         "shortDesc": "Poke Ball for catching Pokemon that are the opposite gender of your Pokemon.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "lovesweet": {
         "num": 1110,
         "name": "Love Sweet",
         "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "lucarionite": {
         "num": 673,
         "name": "Lucarionite",
         "shortDesc": "If held by a Lucario, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "luckypunch": {
         "num": 256,
         "name": "Lucky Punch",
         "shortDesc": "If held by a Chansey, its critical hit ratio is raised by 2 stages.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 2
     },
     "lumberry": {
         "num": 157,
         "name": "Lum Berry",
         "shortDesc": "Holder cures itself if it has a non-volatile status or is confused. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "luminousmoss": {
         "num": 648,
         "name": "Luminous Moss",
         "shortDesc": "Raises holder's Sp. Def by 1 stage if hit by a Water-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 6
     },
     "lunaliumz": {
         "num": 922,
         "name": "Lunalium Z",
         "shortDesc": "Lunala or Dawn Wings Necrozma with Moongeist Beam can use a special Z-Move.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "lureball": {
         "num": 494,
         "name": "Lure Ball",
         "shortDesc": "A Poke Ball for catching Pokemon hooked by a Rod when fishing.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "lustrousglobe": {
         "num": 1778,
         "name": "Lustrous Globe",
         "shortDesc": "If held by a Palkia, its Water- and Dragon-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "lustrousorb": {
         "num": 136,
         "name": "Lustrous Orb",
         "shortDesc": "If held by a Palkia, its Water- and Dragon-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "luxuryball": {
         "num": 11,
         "name": "Luxury Ball",
         "shortDesc": "A comfortable Poke Ball that makes a caught wild Pokemon quickly grow friendly.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "lycaniumz": {
         "num": 925,
         "name": "Lycanium Z",
         "shortDesc": "If held by a Lycanroc forme with Stone Edge, it can use Splintered Stormshards.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "machobrace": {
         "num": 215,
         "name": "Macho Brace",
         "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "magmarizer": {
         "num": 323,
         "name": "Magmarizer",
         "shortDesc": "Evolves Magmar into Magmortar when traded.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "magnet": {
         "num": 242,
         "name": "Magnet",
         "shortDesc": "Holder's Electric-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "magoberry": {
         "num": 161,
         "name": "Mago Berry",
         "shortDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -Spe Nature. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "magostberry": {
         "num": 176,
         "name": "Magost Berry",
         "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "mail": {
         "num": 137,
         "name": "Mail",
         "shortDesc": "Cannot be given to or taken from a Pokemon, except by Covet/Knock Off/Thief.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 2
     },
     "maliciousarmor": {
         "num": 1861,
         "name": "Malicious Armor",
         "shortDesc": "Evolves Charcadet into Ceruledge when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 9
     },
     "manectite": {
         "num": 682,
         "name": "Manectite",
         "shortDesc": "If held by a Manectric, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "marangaberry": {
         "num": 688,
         "name": "Maranga Berry",
         "shortDesc": "Raises holder's Sp. Def by 1 stage after it is hit by a special attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 6
     },
     "marshadiumz": {
         "num": 802,
         "name": "Marshadium Z",
         "shortDesc": "If held by Marshadow with Spectral Thief, it can use Soul-Stealing 7-Star Strike.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "masterball": {
         "num": 1,
         "name": "Master Ball",
         "shortDesc": "The best Ball with the ultimate performance. It will catch any wild Pokemon.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 1
     },
     "masterpieceteacup": {
         "num": 2404,
         "name": "Masterpiece Teacup",
         "shortDesc": "Evolves Poltchageist-Artisan into Sinistcha-Masterpiece when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 9
     },
     "mawilite": {
         "num": 681,
         "name": "Mawilite",
         "shortDesc": "If held by a Mawile, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "meadowplate": {
         "num": 301,
         "name": "Meadow Plate",
         "shortDesc": "Holder's Grass-type attacks have 1.2x power. Judgment is Grass type.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "medichamite": {
         "num": 665,
         "name": "Medichamite",
         "shortDesc": "If held by a Medicham, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "mentalherb": {
         "num": 219,
         "name": "Mental Herb",
         "shortDesc": "Cures holder of Attract, Disable, Encore, Heal Block, Taunt, Torment. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "metagrossite": {
         "num": 758,
         "name": "Metagrossite",
         "shortDesc": "If held by a Metagross, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "metalalloy": {
         "num": 2482,
         "name": "Metal Alloy",
         "shortDesc": "Evolves Duraludon into Archaludon when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 9
     },
     "metalcoat": {
         "num": 233,
         "name": "Metal Coat",
         "shortDesc": "Holder's Steel-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "metalpowder": {
         "num": 257,
         "name": "Metal Powder",
         "shortDesc": "If held by a Ditto that hasn't Transformed, its Defense is doubled.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 2
     },
     "metronome": {
         "num": 277,
         "name": "Metronome",
         "shortDesc": "Damage of moves used on consecutive turns is increased. Max 2x after 5 turns.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "mewniumz": {
         "num": 806,
         "name": "Mewnium Z",
         "shortDesc": "If held by a Mew with Psychic, it can use Genesis Supernova.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "mewtwonitex": {
         "num": 662,
         "name": "Mewtwonite X",
         "shortDesc": "If held by a Mewtwo, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "mewtwonitey": {
         "num": 663,
         "name": "Mewtwonite Y",
         "shortDesc": "If held by a Mewtwo, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "micleberry": {
         "num": 209,
         "name": "Micle Berry",
         "shortDesc": "Holder's next move has 1.2x accuracy when at 1/4 max HP or less. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "mimikiumz": {
         "num": 924,
         "name": "Mimikium Z",
         "shortDesc": "If held by a Mimikyu with Play Rough, it can use Let's Snuggle Forever.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "mindplate": {
         "num": 307,
         "name": "Mind Plate",
         "shortDesc": "Holder's Psychic-type attacks have 1.2x power. Judgment is Psychic type.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "miracleseed": {
         "num": 239,
         "name": "Miracle Seed",
         "shortDesc": "Holder's Grass-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "mirrorherb": {
         "num": 1883,
         "name": "Mirror Herb",
         "shortDesc": "When an opposing Pokemon raises a stat stage, the holder copies it. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 9
     },
     "mistyseed": {
         "num": 883,
         "name": "Misty Seed",
         "shortDesc": "If the terrain is Misty Terrain, raises holder's Sp. Def by 1 stage. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 7
     },
     "moonball": {
         "num": 498,
         "name": "Moon Ball",
         "shortDesc": "A Poke Ball for catching Pokemon that evolve using the Moon Stone.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "moonstone": {
         "num": 81,
         "name": "Moon Stone",
         "shortDesc": "Evolves certain species of Pokemon when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 1
     },
     "muscleband": {
         "num": 266,
         "name": "Muscle Band",
         "shortDesc": "Holder's physical attacks have 1.1x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "mysticwater": {
         "num": 243,
         "name": "Mystic Water",
         "shortDesc": "Holder's Water-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "nanabberry": {
         "num": 166,
         "name": "Nanab Berry",
         "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "nestball": {
         "num": 8,
         "name": "Nest Ball",
         "shortDesc": "A Poke Ball that works especially well on weaker Pokemon in the wild.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "netball": {
         "num": 6,
         "name": "Net Ball",
         "shortDesc": "A Poke Ball that works especially well on Water- and Bug-type Pokemon.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "nevermeltice": {
         "num": 246,
         "name": "Never-Melt Ice",
         "shortDesc": "Holder's Ice-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "nomelberry": {
         "num": 178,
         "name": "Nomel Berry",
         "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "normalgem": {
         "num": 564,
         "name": "Normal Gem",
         "shortDesc": "Holder's first successful Normal-type attack will have 1.3x power. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 5
     },
     "normaliumz": {
         "num": 776,
         "name": "Normalium Z",
         "shortDesc": "If holder has a Normal move, this item allows it to use a Normal Z-Move.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "occaberry": {
         "num": 184,
         "name": "Occa Berry",
         "shortDesc": "Halves damage taken from a supereffective Fire-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "oddincense": {
         "num": 314,
         "name": "Odd Incense",
         "shortDesc": "Holder's Psychic-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 4
     },
     "oldamber": {
         "num": 103,
         "name": "Old Amber",
         "shortDesc": "Can be revived into Aerodactyl.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "oranberry": {
         "num": 155,
         "name": "Oran Berry",
         "shortDesc": "Restores 10 HP when at 1/2 max HP or less. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "ovalstone": {
         "num": 110,
         "name": "Oval Stone",
         "shortDesc": "Evolves Happiny into Chansey when held and leveled up during the day.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "pamtreberry": {
         "num": 180,
         "name": "Pamtre Berry",
         "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "parkball": {
         "num": 500,
         "name": "Park Ball",
         "shortDesc": "A special Poke Ball for the Pal Park.",
         "isBerry": false,
-        "isNonstandard": "Unobtainable"
+        "isNonstandard": "Unobtainable",
+        "gen": 4
     },
     "passhoberry": {
         "num": 185,
         "name": "Passho Berry",
         "shortDesc": "Halves damage taken from a supereffective Water-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "payapaberry": {
         "num": 193,
         "name": "Payapa Berry",
         "shortDesc": "Halves damage taken from a supereffective Psychic-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "pechaberry": {
         "num": 151,
         "name": "Pecha Berry",
         "shortDesc": "Holder is cured if it is poisoned. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "persimberry": {
         "num": 156,
         "name": "Persim Berry",
         "shortDesc": "Holder is cured if it is confused. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "petayaberry": {
         "num": 204,
         "name": "Petaya Berry",
         "shortDesc": "Raises holder's Sp. Atk by 1 stage when at 1/4 max HP or less. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "pidgeotite": {
         "num": 762,
         "name": "Pidgeotite",
         "shortDesc": "If held by a Pidgeot, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "pikaniumz": {
         "num": 794,
         "name": "Pikanium Z",
         "shortDesc": "If held by a Pikachu with Volt Tackle, it can use Catastropika.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "pikashuniumz": {
         "num": 836,
         "name": "Pikashunium Z",
         "shortDesc": "If held by cap Pikachu with Thunderbolt, it can use 10,000,000 Volt Thunderbolt.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "pinapberry": {
         "num": 168,
         "name": "Pinap Berry",
         "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "pinsirite": {
         "num": 671,
         "name": "Pinsirite",
         "shortDesc": "If held by a Pinsir, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "pixieplate": {
         "num": 644,
         "name": "Pixie Plate",
         "shortDesc": "Holder's Fairy-type attacks have 1.2x power. Judgment is Fairy type.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 6
     },
     "plumefossil": {
         "num": 573,
         "name": "Plume Fossil",
         "shortDesc": "Can be revived into Archen.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "poisonbarb": {
         "num": 245,
         "name": "Poison Barb",
         "shortDesc": "Holder's Poison-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "poisongem": {
         "num": 554,
         "name": "Poison Gem",
         "shortDesc": "Holder's first successful Poison-type attack will have 1.3x power. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "poisonmemory": {
         "num": 906,
         "name": "Poison Memory",
         "shortDesc": "Holder's Multi-Attack is Poison type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "poisoniumz": {
         "num": 783,
         "name": "Poisonium Z",
         "shortDesc": "If holder has a Poison move, this item allows it to use a Poison Z-Move.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "pokeball": {
         "num": 4,
         "name": "Poke Ball",
         "shortDesc": "A device for catching wild Pokemon. It is designed as a capsule system.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 1
     },
     "pomegberry": {
         "num": 169,
         "name": "Pomeg Berry",
         "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "poweranklet": {
         "num": 293,
         "name": "Power Anklet",
         "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "powerband": {
         "num": 292,
         "name": "Power Band",
         "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "powerbelt": {
         "num": 290,
         "name": "Power Belt",
         "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "powerbracer": {
         "num": 289,
         "name": "Power Bracer",
         "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "powerherb": {
         "num": 271,
         "name": "Power Herb",
         "shortDesc": "Holder's two-turn moves complete in one turn (except Sky Drop). Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "powerlens": {
         "num": 291,
         "name": "Power Lens",
         "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "powerweight": {
         "num": 294,
         "name": "Power Weight",
         "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "premierball": {
         "num": 12,
         "name": "Premier Ball",
         "shortDesc": "A rare Poke Ball that has been crafted to commemorate an event.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "primariumz": {
         "num": 800,
         "name": "Primarium Z",
         "shortDesc": "If held by a Primarina with Sparkling Aria, it can use Oceanic Operetta.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "prismscale": {
         "num": 537,
         "name": "Prism Scale",
         "shortDesc": "Evolves Feebas into Milotic when traded.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 5
     },
     "protectivepads": {
         "num": 880,
         "name": "Protective Pads",
         "shortDesc": "Holder's moves are protected from adverse contact effects, except Pickpocket.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 7
     },
     "protector": {
         "num": 321,
         "name": "Protector",
         "shortDesc": "Evolves Rhydon into Rhyperior when traded.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "psychicgem": {
         "num": 557,
         "name": "Psychic Gem",
         "shortDesc": "Holder's first successful Psychic-type attack will have 1.3x power. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "psychicmemory": {
         "num": 916,
         "name": "Psychic Memory",
         "shortDesc": "Holder's Multi-Attack is Psychic type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "psychicseed": {
         "num": 882,
         "name": "Psychic Seed",
         "shortDesc": "If the terrain is Psychic Terrain, raises holder's Sp. Def by 1 stage. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 7
     },
     "psychiumz": {
         "num": 786,
         "name": "Psychium Z",
         "shortDesc": "If holder has a Psychic move, this item allows it to use a Psychic Z-Move.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "punchingglove": {
         "num": 1884,
         "name": "Punching Glove",
         "shortDesc": "Holder's punch-based attacks have 1.1x power and do not make contact.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 9
     },
     "qualotberry": {
         "num": 171,
         "name": "Qualot Berry",
         "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "quickball": {
         "num": 15,
         "name": "Quick Ball",
         "shortDesc": "A Poke Ball that provides a better catch rate at the start of a wild encounter.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "quickclaw": {
         "num": 217,
         "name": "Quick Claw",
         "shortDesc": "Each turn, holder has a 20% chance to move first in its priority bracket.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "quickpowder": {
         "num": 274,
         "name": "Quick Powder",
         "shortDesc": "If held by a Ditto that hasn't Transformed, its Speed is doubled.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 4
     },
     "rabutaberry": {
         "num": 177,
         "name": "Rabuta Berry",
         "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "rarebone": {
         "num": 106,
         "name": "Rare Bone",
         "shortDesc": "No competitive use other than when used with Fling.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "rawstberry": {
         "num": 152,
         "name": "Rawst Berry",
         "shortDesc": "Holder is cured if it is burned. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "razorclaw": {
         "num": 326,
         "name": "Razor Claw",
         "shortDesc": "Holder's critical hit ratio is raised by 1 stage.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "razorfang": {
         "num": 327,
         "name": "Razor Fang",
         "shortDesc": "Holder's attacks without a chance to flinch gain a 10% chance to flinch.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "razzberry": {
         "num": 164,
         "name": "Razz Berry",
         "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "reapercloth": {
         "num": 325,
         "name": "Reaper Cloth",
         "shortDesc": "Evolves Dusclops into Dusknoir when traded.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "redcard": {
         "num": 542,
         "name": "Red Card",
         "shortDesc": "If holder survives a hit, attacker is forced to switch to a random ally. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 5
     },
     "redorb": {
         "num": 534,
         "name": "Red Orb",
         "shortDesc": "If held by a Groudon, this item triggers its Primal Reversion in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "repeatball": {
         "num": 9,
         "name": "Repeat Ball",
         "shortDesc": "A Poke Ball that works well on Pokemon species that were previously caught.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "ribbonsweet": {
         "num": 1115,
         "name": "Ribbon Sweet",
         "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "rindoberry": {
         "num": 187,
         "name": "Rindo Berry",
         "shortDesc": "Halves damage taken from a supereffective Grass-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "ringtarget": {
         "num": 543,
         "name": "Ring Target",
         "shortDesc": "The holder's type immunities granted solely by its typing are negated.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 5
     },
     "rockgem": {
         "num": 559,
         "name": "Rock Gem",
         "shortDesc": "Holder's first successful Rock-type attack will have 1.3x power. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "rockincense": {
         "num": 315,
         "name": "Rock Incense",
         "shortDesc": "Holder's Rock-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 4
     },
     "rockmemory": {
         "num": 908,
         "name": "Rock Memory",
         "shortDesc": "Holder's Multi-Attack is Rock type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "rockiumz": {
         "num": 788,
         "name": "Rockium Z",
         "shortDesc": "If holder has a Rock move, this item allows it to use a Rock Z-Move.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "rockyhelmet": {
         "num": 540,
         "name": "Rocky Helmet",
         "shortDesc": "If holder is hit by a contact move, the attacker loses 1/6 of its max HP.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 5
     },
     "roomservice": {
         "num": 1122,
         "name": "Room Service",
         "shortDesc": "If Trick Room is active, the holder's Speed is lowered by 1 stage. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "rootfossil": {
         "num": 99,
         "name": "Root Fossil",
         "shortDesc": "Can be revived into Lileep.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "roseincense": {
         "num": 318,
         "name": "Rose Incense",
         "shortDesc": "Holder's Grass-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 4
     },
     "roseliberry": {
         "num": 686,
         "name": "Roseli Berry",
         "shortDesc": "Halves damage taken from a supereffective Fairy-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 6
     },
     "rowapberry": {
         "num": 212,
         "name": "Rowap Berry",
         "shortDesc": "If holder is hit by a special move, attacker loses 1/8 of its max HP. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "rustedshield": {
         "num": 1104,
         "name": "Rusted Shield",
         "shortDesc": "If held by a Zamazenta, this item changes its forme to Crowned Shield.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "rustedsword": {
         "num": 1103,
         "name": "Rusted Sword",
         "shortDesc": "If held by a Zacian, this item changes its forme to Crowned Sword.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "sablenite": {
         "num": 754,
         "name": "Sablenite",
         "shortDesc": "If held by a Sableye, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "sachet": {
         "num": 647,
         "name": "Sachet",
         "shortDesc": "Evolves Spritzee into Aromatisse when traded.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "safariball": {
         "num": 5,
         "name": "Safari Ball",
         "shortDesc": "A special Poke Ball that is used only in the Safari Zone and Great Marsh.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 1
     },
     "safetygoggles": {
         "num": 650,
         "name": "Safety Goggles",
         "shortDesc": "Holder is immune to powder moves and damage from Sandstorm or Hail.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 6
     },
     "sailfossil": {
         "num": 711,
         "name": "Sail Fossil",
         "shortDesc": "Can be revived into Amaura.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "salacberry": {
         "num": 203,
         "name": "Salac Berry",
         "shortDesc": "Raises holder's Speed by 1 stage when at 1/4 max HP or less. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "salamencite": {
         "num": 769,
         "name": "Salamencite",
         "shortDesc": "If held by a Salamence, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "sceptilite": {
         "num": 753,
         "name": "Sceptilite",
         "shortDesc": "If held by a Sceptile, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "scizorite": {
         "num": 670,
         "name": "Scizorite",
         "shortDesc": "If held by a Scizor, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "scopelens": {
         "num": 232,
         "name": "Scope Lens",
         "shortDesc": "Holder's critical hit ratio is raised by 1 stage.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "seaincense": {
         "num": 254,
         "name": "Sea Incense",
         "shortDesc": "Holder's Water-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "sharpbeak": {
         "num": 244,
         "name": "Sharp Beak",
         "shortDesc": "Holder's Flying-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "sharpedonite": {
         "num": 759,
         "name": "Sharpedonite",
         "shortDesc": "If held by a Sharpedo, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "shedshell": {
         "num": 295,
         "name": "Shed Shell",
         "shortDesc": "Holder cannot be prevented from choosing to switch out by any effect.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "shellbell": {
         "num": 253,
         "name": "Shell Bell",
         "shortDesc": "After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "shinystone": {
         "num": 107,
         "name": "Shiny Stone",
         "shortDesc": "Evolves certain species of Pokemon when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "shockdrive": {
         "num": 117,
         "name": "Shock Drive",
         "shortDesc": "Holder's Techno Blast is Electric type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "shucaberry": {
         "num": 191,
         "name": "Shuca Berry",
         "shortDesc": "Halves damage taken from a supereffective Ground-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "silkscarf": {
         "num": 251,
         "name": "Silk Scarf",
         "shortDesc": "Holder's Normal-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "silverpowder": {
         "num": 222,
         "name": "Silver Powder",
         "shortDesc": "Holder's Bug-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "sitrusberry": {
         "num": 158,
         "name": "Sitrus Berry",
         "shortDesc": "Restores 1/4 max HP when at 1/2 max HP or less. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "skullfossil": {
         "num": 105,
         "name": "Skull Fossil",
         "shortDesc": "Can be revived into Cranidos.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 4
     },
     "skyplate": {
         "num": 306,
         "name": "Sky Plate",
         "shortDesc": "Holder's Flying-type attacks have 1.2x power. Judgment is Flying type.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "slowbronite": {
         "num": 760,
         "name": "Slowbronite",
         "shortDesc": "If held by a Slowbro, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "smoothrock": {
         "num": 283,
         "name": "Smooth Rock",
         "shortDesc": "Holder's use of Sandstorm lasts 8 turns instead of 5.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "snorliumz": {
         "num": 804,
         "name": "Snorlium Z",
         "shortDesc": "If held by a Snorlax with Giga Impact, it can use Pulverizing Pancake.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "snowball": {
         "num": 649,
         "name": "Snowball",
         "shortDesc": "Raises holder's Attack by 1 if hit by an Ice-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 6
     },
     "softsand": {
         "num": 237,
         "name": "Soft Sand",
         "shortDesc": "Holder's Ground-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "solganiumz": {
         "num": 921,
         "name": "Solganium Z",
         "shortDesc": "Solgaleo or Dusk Mane Necrozma with Sunsteel Strike can use a special Z-Move.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "souldew": {
         "num": 225,
         "name": "Soul Dew",
         "shortDesc": "If held by a Latias/Latios, its Dragon- and Psychic-type moves have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "spelltag": {
         "num": 247,
         "name": "Spell Tag",
         "shortDesc": "Holder's Ghost-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "spelonberry": {
         "num": 179,
         "name": "Spelon Berry",
         "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "splashplate": {
         "num": 299,
         "name": "Splash Plate",
         "shortDesc": "Holder's Water-type attacks have 1.2x power. Judgment is Water type.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "spookyplate": {
         "num": 310,
         "name": "Spooky Plate",
         "shortDesc": "Holder's Ghost-type attacks have 1.2x power. Judgment is Ghost type.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "sportball": {
         "num": 499,
         "name": "Sport Ball",
         "shortDesc": "A special Poke Ball for the Bug-Catching Contest.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "starfberry": {
         "num": 207,
         "name": "Starf Berry",
         "shortDesc": "Raises a random stat by 2 when at 1/4 max HP or less (not acc/eva). Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "starsweet": {
         "num": 1114,
         "name": "Star Sweet",
         "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "steelixite": {
         "num": 761,
         "name": "Steelixite",
         "shortDesc": "If held by a Steelix, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "steelgem": {
         "num": 563,
         "name": "Steel Gem",
         "shortDesc": "Holder's first successful Steel-type attack will have 1.3x power. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "steelmemory": {
         "num": 911,
         "name": "Steel Memory",
         "shortDesc": "Holder's Multi-Attack is Steel type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "steeliumz": {
         "num": 792,
         "name": "Steelium Z",
         "shortDesc": "If holder has a Steel move, this item allows it to use a Steel Z-Move.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "stick": {
         "num": 259,
         "name": "Stick",
         "shortDesc": "If held by a Farfetch\u2019d, its critical hit ratio is raised by 2 stages.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 2
     },
     "stickybarb": {
         "num": 288,
         "name": "Sticky Barb",
         "shortDesc": "Each turn, holder loses 1/8 max HP. An attacker making contact can receive it.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "stoneplate": {
         "num": 309,
         "name": "Stone Plate",
         "shortDesc": "Holder's Rock-type attacks have 1.2x power. Judgment is Rock type.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "strangeball": {
         "num": 1785,
         "name": "Strange Ball",
         "shortDesc": "Placeholder if caught in Poke Ball not in current game.",
         "isBerry": false,
-        "isNonstandard": "Unobtainable"
+        "isNonstandard": "Unobtainable",
+        "gen": 8
     },
     "strawberrysweet": {
         "num": 1109,
         "name": "Strawberry Sweet",
         "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "sunstone": {
         "num": 80,
         "name": "Sun Stone",
         "shortDesc": "Evolves certain species of Pokemon when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "swampertite": {
         "num": 752,
         "name": "Swampertite",
         "shortDesc": "If held by a Swampert, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "sweetapple": {
         "num": 1116,
         "name": "Sweet Apple",
         "shortDesc": "Evolves Applin into Appletun when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "syrupyapple": {
         "num": 2402,
         "name": "Syrupy Apple",
         "shortDesc": "Evolves Applin into Dipplin when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 9
     },
     "tamatoberry": {
         "num": 174,
         "name": "Tamato Berry",
         "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "tangaberry": {
         "num": 194,
         "name": "Tanga Berry",
         "shortDesc": "Halves damage taken from a supereffective Bug-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "tapuniumz": {
         "num": 801,
         "name": "Tapunium Z",
         "shortDesc": "If held by a Tapu with Nature's Madness, it can use Guardian of Alola.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "tartapple": {
         "num": 1117,
         "name": "Tart Apple",
         "shortDesc": "Evolves Applin into Flapple when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "terrainextender": {
         "num": 879,
         "name": "Terrain Extender",
         "shortDesc": "Holder's use of Electric/Grassy/Misty/Psychic Terrain lasts 8 turns instead of 5.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 7
     },
     "thickclub": {
         "num": 258,
         "name": "Thick Club",
         "shortDesc": "If held by a Cubone or a Marowak, its Attack is doubled.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 2
     },
     "throatspray": {
         "num": 1118,
         "name": "Throat Spray",
         "shortDesc": "Raises holder's Special Attack by 1 stage after it uses a sound move. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "thunderstone": {
         "num": 83,
         "name": "Thunder Stone",
         "shortDesc": "Evolves certain species of Pokemon when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 1
     },
     "timerball": {
         "num": 10,
         "name": "Timer Ball",
         "shortDesc": "A Poke Ball that becomes better the more turns there are in a battle.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "toxicorb": {
         "num": 272,
         "name": "Toxic Orb",
         "shortDesc": "At the end of every turn, this item attempts to badly poison the holder.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "toxicplate": {
         "num": 304,
         "name": "Toxic Plate",
         "shortDesc": "Holder's Poison-type attacks have 1.2x power. Judgment is Poison type.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "tr00": {
         "num": 1130,
         "name": "TR00",
         "shortDesc": "Teaches certain Pokemon the move Swords Dance. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr01": {
         "num": 1131,
         "name": "TR01",
         "shortDesc": "Teaches certain Pokemon the move Body Slam. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr02": {
         "num": 1132,
         "name": "TR02",
         "shortDesc": "Teaches certain Pokemon the move Flamethrower. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr03": {
         "num": 1133,
         "name": "TR03",
         "shortDesc": "Teaches certain Pokemon the move Hydro Pump. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr04": {
         "num": 1134,
         "name": "TR04",
         "shortDesc": "Teaches certain Pokemon the move Surf. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr05": {
         "num": 1135,
         "name": "TR05",
         "shortDesc": "Teaches certain Pokemon the move Ice Beam. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr06": {
         "num": 1136,
         "name": "TR06",
         "shortDesc": "Teaches certain Pokemon the move Blizzard. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr07": {
         "num": 1137,
         "name": "TR07",
         "shortDesc": "Teaches certain Pokemon the move Low Kick. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr08": {
         "num": 1138,
         "name": "TR08",
         "shortDesc": "Teaches certain Pokemon the move Thunderbolt. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr09": {
         "num": 1139,
         "name": "TR09",
         "shortDesc": "Teaches certain Pokemon the move Thunder. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr10": {
         "num": 1140,
         "name": "TR10",
         "shortDesc": "Teaches certain Pokemon the move Earthquake. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr11": {
         "num": 1141,
         "name": "TR11",
         "shortDesc": "Teaches certain Pokemon the move Psychic. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr12": {
         "num": 1142,
         "name": "TR12",
         "shortDesc": "Teaches certain Pokemon the move Agility. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr13": {
         "num": 1143,
         "name": "TR13",
         "shortDesc": "Teaches certain Pokemon the move Focus Energy. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr14": {
         "num": 1144,
         "name": "TR14",
         "shortDesc": "Teaches certain Pokemon the move Metronome. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr15": {
         "num": 1145,
         "name": "TR15",
         "shortDesc": "Teaches certain Pokemon the move Fire Blast. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr16": {
         "num": 1146,
         "name": "TR16",
         "shortDesc": "Teaches certain Pokemon the move Waterfall. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr17": {
         "num": 1147,
         "name": "TR17",
         "shortDesc": "Teaches certain Pokemon the move Amnesia. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr18": {
         "num": 1148,
         "name": "TR18",
         "shortDesc": "Teaches certain Pokemon the move Leech Life. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr19": {
         "num": 1149,
         "name": "TR19",
         "shortDesc": "Teaches certain Pokemon the move Tri Attack. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr20": {
         "num": 1150,
         "name": "TR20",
         "shortDesc": "Teaches certain Pokemon the move Substitute. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr21": {
         "num": 1151,
         "name": "TR21",
         "shortDesc": "Teaches certain Pokemon the move Reversal. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr22": {
         "num": 1152,
         "name": "TR22",
         "shortDesc": "Teaches certain Pokemon the move Sludge Bomb. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr23": {
         "num": 1153,
         "name": "TR23",
         "shortDesc": "Teaches certain Pokemon the move Spikes. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr24": {
         "num": 1154,
         "name": "TR24",
         "shortDesc": "Teaches certain Pokemon the move Outrage. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr25": {
         "num": 1155,
         "name": "TR25",
         "shortDesc": "Teaches certain Pokemon the move Psyshock. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr26": {
         "num": 1156,
         "name": "TR26",
         "shortDesc": "Teaches certain Pokemon the move Endure. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr27": {
         "num": 1157,
         "name": "TR27",
         "shortDesc": "Teaches certain Pokemon the move Sleep Talk. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr28": {
         "num": 1158,
         "name": "TR28",
         "shortDesc": "Teaches certain Pokemon the move Megahorn. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr29": {
         "num": 1159,
         "name": "TR29",
         "shortDesc": "Teaches certain Pokemon the move Baton Pass. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr30": {
         "num": 1160,
         "name": "TR30",
         "shortDesc": "Teaches certain Pokemon the move Encore. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr31": {
         "num": 1161,
         "name": "TR31",
         "shortDesc": "Teaches certain Pokemon the move Iron Tail. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr32": {
         "num": 1162,
         "name": "TR32",
         "shortDesc": "Teaches certain Pokemon the move Crunch. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr33": {
         "num": 1163,
         "name": "TR33",
         "shortDesc": "Teaches certain Pokemon the move Shadow Ball. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr34": {
         "num": 1164,
         "name": "TR34",
         "shortDesc": "Teaches certain Pokemon the move Future Sight. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr35": {
         "num": 1165,
         "name": "TR35",
         "shortDesc": "Teaches certain Pokemon the move Uproar. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr36": {
         "num": 1166,
         "name": "TR36",
         "shortDesc": "Teaches certain Pokemon the move Heat Wave. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr37": {
         "num": 1167,
         "name": "TR37",
         "shortDesc": "Teaches certain Pokemon the move Taunt. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr38": {
         "num": 1168,
         "name": "TR38",
         "shortDesc": "Teaches certain Pokemon the move Trick. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr39": {
         "num": 1169,
         "name": "TR39",
         "shortDesc": "Teaches certain Pokemon the move Superpower. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr40": {
         "num": 1170,
         "name": "TR40",
         "shortDesc": "Teaches certain Pokemon the move Skill Swap. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr41": {
         "num": 1171,
         "name": "TR41",
         "shortDesc": "Teaches certain Pokemon the move Blaze Kick. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr42": {
         "num": 1172,
         "name": "TR42",
         "shortDesc": "Teaches certain Pokemon the move Hyper Voice. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr43": {
         "num": 1173,
         "name": "TR43",
         "shortDesc": "Teaches certain Pokemon the move Overheat. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr44": {
         "num": 1174,
         "name": "TR44",
         "shortDesc": "Teaches certain Pokemon the move Cosmic Power. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr45": {
         "num": 1175,
         "name": "TR45",
         "shortDesc": "Teaches certain Pokemon the move Muddy Water. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr46": {
         "num": 1176,
         "name": "TR46",
         "shortDesc": "Teaches certain Pokemon the move Iron Defense. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr47": {
         "num": 1177,
         "name": "TR47",
         "shortDesc": "Teaches certain Pokemon the move Dragon Claw. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr48": {
         "num": 1178,
         "name": "TR48",
         "shortDesc": "Teaches certain Pokemon the move Bulk Up. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr49": {
         "num": 1179,
         "name": "TR49",
         "shortDesc": "Teaches certain Pokemon the move Calm Mind. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr50": {
         "num": 1180,
         "name": "TR50",
         "shortDesc": "Teaches certain Pokemon the move Leaf Blade. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr51": {
         "num": 1181,
         "name": "TR51",
         "shortDesc": "Teaches certain Pokemon the move Dragon Dance. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr52": {
         "num": 1182,
         "name": "TR52",
         "shortDesc": "Teaches certain Pokemon the move Gyro Ball. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr53": {
         "num": 1183,
         "name": "TR53",
         "shortDesc": "Teaches certain Pokemon the move Close Combat. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr54": {
         "num": 1184,
         "name": "TR54",
         "shortDesc": "Teaches certain Pokemon the move Toxic Spikes. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr55": {
         "num": 1185,
         "name": "TR55",
         "shortDesc": "Teaches certain Pokemon the move Flare Blitz. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr56": {
         "num": 1186,
         "name": "TR56",
         "shortDesc": "Teaches certain Pokemon the move Aura Sphere. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr57": {
         "num": 1187,
         "name": "TR57",
         "shortDesc": "Teaches certain Pokemon the move Poison Jab. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr58": {
         "num": 1188,
         "name": "TR58",
         "shortDesc": "Teaches certain Pokemon the move Dark Pulse. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr59": {
         "num": 1189,
         "name": "TR59",
         "shortDesc": "Teaches certain Pokemon the move Seed Bomb. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr60": {
         "num": 1190,
         "name": "TR60",
         "shortDesc": "Teaches certain Pokemon the move X-Scissor. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr61": {
         "num": 1191,
         "name": "TR61",
         "shortDesc": "Teaches certain Pokemon the move Bug Buzz. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr62": {
         "num": 1192,
         "name": "TR62",
         "shortDesc": "Teaches certain Pokemon the move Dragon Pulse. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr63": {
         "num": 1193,
         "name": "TR63",
         "shortDesc": "Teaches certain Pokemon the move Power Gem. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr64": {
         "num": 1194,
         "name": "TR64",
         "shortDesc": "Teaches certain Pokemon the move Focus Blast. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr65": {
         "num": 1195,
         "name": "TR65",
         "shortDesc": "Teaches certain Pokemon the move Energy Ball. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr66": {
         "num": 1196,
         "name": "TR66",
         "shortDesc": "Teaches certain Pokemon the move Brave Bird. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr67": {
         "num": 1197,
         "name": "TR67",
         "shortDesc": "Teaches certain Pokemon the move Earth Power. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr68": {
         "num": 1198,
         "name": "TR68",
         "shortDesc": "Teaches certain Pokemon the move Nasty Plot. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr69": {
         "num": 1199,
         "name": "TR69",
         "shortDesc": "Teaches certain Pokemon the move Zen Headbutt. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr70": {
         "num": 1200,
         "name": "TR70",
         "shortDesc": "Teaches certain Pokemon the move Flash Cannon. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr71": {
         "num": 1201,
         "name": "TR71",
         "shortDesc": "Teaches certain Pokemon the move Leaf Storm. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr72": {
         "num": 1202,
         "name": "TR72",
         "shortDesc": "Teaches certain Pokemon the move Power Whip. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr73": {
         "num": 1203,
         "name": "TR73",
         "shortDesc": "Teaches certain Pokemon the move Gunk Shot. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr74": {
         "num": 1204,
         "name": "TR74",
         "shortDesc": "Teaches certain Pokemon the move Iron Head. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr75": {
         "num": 1205,
         "name": "TR75",
         "shortDesc": "Teaches certain Pokemon the move Stone Edge. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr76": {
         "num": 1206,
         "name": "TR76",
         "shortDesc": "Teaches certain Pokemon the move Stealth Rock. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr77": {
         "num": 1207,
         "name": "TR77",
         "shortDesc": "Teaches certain Pokemon the move Grass Knot. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr78": {
         "num": 1208,
         "name": "TR78",
         "shortDesc": "Teaches certain Pokemon the move Sludge Wave. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr79": {
         "num": 1209,
         "name": "TR79",
         "shortDesc": "Teaches certain Pokemon the move Heavy Slam. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr80": {
         "num": 1210,
         "name": "TR80",
         "shortDesc": "Teaches certain Pokemon the move Electro Ball. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr81": {
         "num": 1211,
         "name": "TR81",
         "shortDesc": "Teaches certain Pokemon the move Foul Play. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr82": {
         "num": 1212,
         "name": "TR82",
         "shortDesc": "Teaches certain Pokemon the move Stored Power. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr83": {
         "num": 1213,
         "name": "TR83",
         "shortDesc": "Teaches certain Pokemon the move Ally Switch. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr84": {
         "num": 1214,
         "name": "TR84",
         "shortDesc": "Teaches certain Pokemon the move Scald. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr85": {
         "num": 1215,
         "name": "TR85",
         "shortDesc": "Teaches certain Pokemon the move Work Up. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr86": {
         "num": 1216,
         "name": "TR86",
         "shortDesc": "Teaches certain Pokemon the move Wild Charge. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr87": {
         "num": 1217,
         "name": "TR87",
         "shortDesc": "Teaches certain Pokemon the move Drill Run. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr88": {
         "num": 1218,
         "name": "TR88",
         "shortDesc": "Teaches certain Pokemon the move Heat Crash. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr89": {
         "num": 1219,
         "name": "TR89",
         "shortDesc": "Teaches certain Pokemon the move Hurricane. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr90": {
         "num": 1220,
         "name": "TR90",
         "shortDesc": "Teaches certain Pokemon the move Play Rough. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr91": {
         "num": 1221,
         "name": "TR91",
         "shortDesc": "Teaches certain Pokemon the move Venom Drench. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr92": {
         "num": 1222,
         "name": "TR92",
         "shortDesc": "Teaches certain Pokemon the move Dazzling Gleam. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr93": {
         "num": 1223,
         "name": "TR93",
         "shortDesc": "Teaches certain Pokemon the move Darkest Lariat. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr94": {
         "num": 1224,
         "name": "TR94",
         "shortDesc": "Teaches certain Pokemon the move High Horsepower. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr95": {
         "num": 1225,
         "name": "TR95",
         "shortDesc": "Teaches certain Pokemon the move Throat Chop. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr96": {
         "num": 1226,
         "name": "TR96",
         "shortDesc": "Teaches certain Pokemon the move Pollen Puff. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr97": {
         "num": 1227,
         "name": "TR97",
         "shortDesc": "Teaches certain Pokemon the move Psychic Fangs. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr98": {
         "num": 1228,
         "name": "TR98",
         "shortDesc": "Teaches certain Pokemon the move Liquidation. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "tr99": {
         "num": 1229,
         "name": "TR99",
         "shortDesc": "Teaches certain Pokemon the move Body Press. One use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 8
     },
     "twistedspoon": {
         "num": 248,
         "name": "Twisted Spoon",
         "shortDesc": "Holder's Psychic-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "tyranitarite": {
         "num": 669,
         "name": "Tyranitarite",
         "shortDesc": "If held by a Tyranitar, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "ultraball": {
         "num": 2,
         "name": "Ultra Ball",
         "shortDesc": "An ultra-performance Ball that provides a higher catch rate than a Great Ball.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 1
     },
     "ultranecroziumz": {
         "num": 923,
         "name": "Ultranecrozium Z",
         "shortDesc": "Dusk Mane/Dawn Wings Necrozma: Ultra Burst, then Z-Move w/ Photon Geyser.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "unremarkableteacup": {
         "num": 2403,
         "name": "Unremarkable Teacup",
         "shortDesc": "Evolves Poltchageist into Sinistcha when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 9
     },
     "upgrade": {
         "num": 252,
         "name": "Up-Grade",
         "shortDesc": "Evolves Porygon into Porygon2 when traded.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 2
     },
     "utilityumbrella": {
         "num": 1123,
         "name": "Utility Umbrella",
         "shortDesc": "The holder ignores rain- and sun-based effects.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 8
     },
     "venusaurite": {
         "num": 659,
         "name": "Venusaurite",
         "shortDesc": "If held by a Venusaur, this item allows it to Mega Evolve in battle.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "wacanberry": {
         "num": 186,
         "name": "Wacan Berry",
         "shortDesc": "Halves damage taken from a supereffective Electric-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "watergem": {
         "num": 549,
         "name": "Water Gem",
         "shortDesc": "Holder's first successful Water-type attack will have 1.3x power. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 5
     },
     "watermemory": {
         "num": 913,
         "name": "Water Memory",
         "shortDesc": "Holder's Multi-Attack is Water type.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "waterstone": {
         "num": 84,
         "name": "Water Stone",
         "shortDesc": "Evolves certain species of Pokemon when used.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 1
     },
     "wateriumz": {
         "num": 778,
         "name": "Waterium Z",
         "shortDesc": "If holder has a Water move, this item allows it to use a Water Z-Move.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 7
     },
     "watmelberry": {
         "num": 181,
         "name": "Watmel Berry",
         "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "waveincense": {
         "num": 317,
         "name": "Wave Incense",
         "shortDesc": "Holder's Water-type attacks have 1.2x power.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 4
     },
     "weaknesspolicy": {
         "num": 639,
         "name": "Weakness Policy",
         "shortDesc": "If holder is hit super effectively, raises Attack, Sp. Atk by 2 stages. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 6
     },
     "wellspringmask": {
         "num": 2407,
         "name": "Wellspring Mask",
         "shortDesc": "Ogerpon-Wellspring: 1.2x power attacks; Terastallize to gain Embody Aspect.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 9
     },
     "wepearberry": {
         "num": 167,
         "name": "Wepear Berry",
         "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 3
     },
     "whippeddream": {
         "num": 646,
         "name": "Whipped Dream",
         "shortDesc": "Evolves Swirlix into Slurpuff when traded.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 6
     },
     "whiteherb": {
         "num": 214,
         "name": "White Herb",
         "shortDesc": "Restores all lowered stat stages to 0 when one is less than 0. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "widelens": {
         "num": 265,
         "name": "Wide Lens",
         "shortDesc": "The accuracy of attacks by the holder is 1.1x.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "wikiberry": {
         "num": 160,
         "name": "Wiki Berry",
         "shortDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -SpA Nature. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 3
     },
     "wiseglasses": {
         "num": 267,
         "name": "Wise Glasses",
         "shortDesc": "Holder's special attacks have 1.1x power.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "yacheberry": {
         "num": 188,
         "name": "Yache Berry",
         "shortDesc": "Halves damage taken from a supereffective Ice-type attack. Single use.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "zapplate": {
         "num": 300,
         "name": "Zap Plate",
         "shortDesc": "Holder's Electric-type attacks have 1.2x power. Judgment is Electric type.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "zoomlens": {
         "num": 276,
         "name": "Zoom Lens",
         "shortDesc": "The accuracy of attacks by the holder is 1.2x if it moves after its target.",
         "isBerry": false,
-        "isNonstandard": false
+        "isNonstandard": false,
+        "gen": 4
     },
     "berserkgene": {
         "num": 0,
         "name": "Berserk Gene",
         "shortDesc": "(Gen 2) On switch-in, raises holder's Attack by 2 and confuses it. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 2
     },
     "berry": {
         "num": 155,
         "name": "Berry",
         "shortDesc": "(Gen 2) Restores 10 HP when at 1/2 max HP or less. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 2
     },
     "bitterberry": {
         "num": 156,
         "name": "Bitter Berry",
         "shortDesc": "(Gen 2) Holder is cured if it is confused. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 2
     },
     "burntberry": {
         "num": 153,
         "name": "Burnt Berry",
         "shortDesc": "(Gen 2) Holder is cured if it is frozen. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 2
     },
     "goldberry": {
         "num": 158,
         "name": "Gold Berry",
         "shortDesc": "(Gen 2) Restores 30 HP when at 1/2 max HP or less. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 2
     },
     "iceberry": {
         "num": 152,
         "name": "Ice Berry",
         "shortDesc": "(Gen 2) Holder is cured if it is burned. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 2
     },
     "mintberry": {
         "num": 150,
         "name": "Mint Berry",
         "shortDesc": "(Gen 2) Holder wakes up if it is asleep. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 2
     },
     "miracleberry": {
         "num": 157,
         "name": "Miracle Berry",
         "shortDesc": "(Gen 2) Holder cures itself if it is confused or has a status condition. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 2
     },
     "mysteryberry": {
         "num": 154,
         "name": "Mystery Berry",
         "shortDesc": "(Gen 2) Restores 5 PP to the first of the holder's moves to reach 0 PP. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 2
     },
     "pinkbow": {
         "num": 251,
         "name": "Pink Bow",
         "shortDesc": "(Gen 2) Holder's Normal-type attacks have 1.1x power.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 2
     },
     "polkadotbow": {
         "num": 251,
         "name": "Polkadot Bow",
         "shortDesc": "(Gen 2) Holder's Normal-type attacks have 1.1x power.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 2
     },
     "przcureberry": {
         "num": 149,
         "name": "PRZ Cure Berry",
         "shortDesc": "(Gen 2) Holder cures itself if it is paralyzed. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 2
     },
     "psncureberry": {
         "num": 151,
         "name": "PSN Cure Berry",
         "shortDesc": "(Gen 2) Holder is cured if it is poisoned. Single use.",
         "isBerry": false,
-        "isNonstandard": "Past"
+        "isNonstandard": "Past",
+        "gen": 2
     }
 }
