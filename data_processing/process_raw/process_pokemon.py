@@ -16,7 +16,7 @@ TOP_N_MOVES = 15
 processed_pokemon = {}
 
 for num, (key, data) in enumerate(pokemon.items()):
-    # abilities with negative numbers are unofficial/not in the real games
+    # pokemon with negative numbers are unofficial/not in the real games
     if data['num'] < 0:
         continue
 

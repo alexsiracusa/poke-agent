@@ -10,7 +10,7 @@ with open('../../data/raw/items_text.json', 'r') as f:
 processed_items = {}
 
 for num, (key, data) in enumerate(items.items()):
-    # abilities with negative numbers are unofficial/not in the real games
+    # items with negative numbers are unofficial/not in the real games
     if data['num'] < 0:
         continue
 
