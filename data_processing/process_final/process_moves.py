@@ -8,12 +8,12 @@ with open('../../data/processed/moves.json', 'r') as f:
 
 processed_moves = {}
 
-for num, (key, data) in enumerate(moves.items()):
+for key, data in moves.items():
     if data['isNonstandard']:
         continue
 
     move = {
-        'num': num,
+        'num': data['num'],
         'type': type_to_vec(data['type']),
         'accuracy': data['accuracy'] / 100,
         'cannotMiss': data['accuracy'] == True,
