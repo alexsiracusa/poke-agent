@@ -1,4 +1,4 @@
-from data_processing.util import make_one_hot_encoder
+from data_processing.util.util import make_one_hot_encoder
 
 
 types = [

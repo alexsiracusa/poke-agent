@@ -1,7 +1,7 @@
 import json
 import collections
 import torch
-from data_processing.util import flatten_json_to_tensor
+from data_processing.util.util import flatten_json_to_tensor
 
 
 def process_move_tensors(path):

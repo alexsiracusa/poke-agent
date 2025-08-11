@@ -1,6 +1,6 @@
 import json
 import collections
-from data_processing.to_vec import type_to_vec, move_category_to_vec, move_target_to_vec, status_to_vec, volatile_status_to_vec
+from data_processing.util import type_to_vec, move_category_to_vec, move_target_to_vec, status_to_vec, volatile_status_to_vec
 from data_processing.util import get_nested
 
 
