@@ -1,6 +1,6 @@
 ### Ability Features
 
-```json
+```json lines
 {
   "num": json,
   "rating": int
@@ -9,7 +9,7 @@
 
 ### Item Features
 
-```json
+```json lines
 {
   "num": embedding,
   "isBerry": boolean
@@ -18,7 +18,7 @@
 
 ### Move Features
 
-```json
+```json lines
 {
   "num": embedding,
   "type": enum,
@@ -93,7 +93,7 @@
 }
 ```
 
-```javascript
+```json lines
 type: {
     'Normal', 'Fire', 'Water', 'Electric', 'Grass', 'Ice', 'Fighting', 'Poison', 'Ground', 'Flying', 'Psychic', 'Bug', 'Rock', 'Ghost', 'Dragon', 'Dark', 'Steel', 'Fairy'
 }
@@ -113,7 +113,7 @@ volatileStatus: {
 
 ### Pokemon Features
 
-```json
+```json lines
 {
   "num": embedding,
   "types": {
@@ -171,8 +171,7 @@ volatileStatus: {
 ```
 
 #### Pokemon Embedding Features
-```json
-Embedding Features
+```json lines
 {
   "abilities": [embedding, embedding, embedding],
   "items": [embedding, embedding, embedding, embedding, embedding],
