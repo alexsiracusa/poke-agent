@@ -1,8 +1,8 @@
 import json
 import collections
-from data_processing.util import type_to_vec
+from data_processing.util import type_to_vec, nature_to_vec
 from data_processing.util import get_nested, pad
-import numpy as np
+from data_processing.consts import TOP_N_ITEMS, TOP_N_TERA, TOP_N_SPREADS, TOP_N_MOVES
 
 
 def process_final_pokemon(path):
@@ -54,36 +54,40 @@ def process_final_pokemon(path):
                 'items_frequency': (
                     [a['frequency'] for a in pad(
                         get_nested(data, ['stats', 'items_frequency'], []),
-                        length=5,
+                        length=TOP_N_ITEMS,
                         value={'name': '', 'frequency': 0}
                     )]
                 ),
                 'tera': (
                     [type_to_vec(a['name'], default=True) for a in pad(
                         get_nested(data, ['stats', 'tera'], []),
-                        length=5,
+                        length=TOP_N_TERA,
                         value={'name': '', 'frequency': 0}
                     )]
                 ),
                 'tera_frequency': (
                     [a['frequency'] for a in pad(
                         get_nested(data, ['stats', 'tera'], []),
-                        length=5,
+                        length=TOP_N_TERA,
                         value={'name': '', 'frequency': 0}
                     )]
                 ),
-                # 'spreads': [
-                #     {
-                #         'nature': enum,
-                #         'hp': int / 252,
-                #         'atk': int / 252,
-                #         'def': int / 252,
-                #         'spa': int / 252,
-                #         'spd': int / 252,
-                #         'spe': int / 252,
-                #         'frequency': float
-                #     } x 5
-                # ],
+                'spreads': (
+                    [{
+                        'nature': nature_to_vec(a['nature'], default=True),
+                        'hp': a['hp'] / 252,
+                        'atk': a['atk'] / 252,
+                        'def': a['def'] / 252,
+                        'spa': a['spa'] / 252,
+                        'spd': a['spd'] / 252,
+                        'spe': a['spe'] / 252,
+                        'frequency': a['frequency']
+                    } for a in pad(
+                        get_nested(data, ['stats', 'spreads'], []),
+                        length=TOP_N_SPREADS,
+                        value={'nature': '', 'hp': 0, 'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'frequency': 0}
+                    )]
+                ),
                 'move_frequencies': (
                     [a['frequency'] for a in pad(
                         get_nested(data, ['stats', 'moves'], []),

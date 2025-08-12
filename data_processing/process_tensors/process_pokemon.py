@@ -25,7 +25,7 @@ def process_pokemon_tensors(path):
     if __name__ == '__main__':
         print(tensors.shape)
 
-    print('processed move tensors')
+    print('processed pokemon tensors')
 
 
 if __name__ == '__main__':

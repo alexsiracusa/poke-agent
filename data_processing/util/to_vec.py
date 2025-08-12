@@ -27,7 +27,7 @@ volatile_status_to_vec = make_one_hot_encoder(volatile_statuses)
 move_target_to_vec = make_one_hot_encoder(move_targets)
 move_category_to_vec = make_one_hot_encoder(move_categories)
 
-def nature_to_vec(nature):
+def nature_to_vec(nature, default=False):
     match nature:            #  ATK DEF SPA SPD SPE
         case 'Lonely':  return [1,  -1, 0,  0,  0 ]
         case 'Adamant': return [1,  0,  -1, 0,  0 ]
@@ -59,6 +59,11 @@ def nature_to_vec(nature):
         case 'Serious': return [0,  0,  0,  0,  0 ]
         case 'Bashful': return [0,  0,  0,  0,  0 ]
         case 'Quirky':  return [0,  0,  0,  0,  0 ]
+
+    if default:
+        return [0, 0, 0, 0, 0]
+    else:
+        raise ValueError(f"{nature} not found in list")
 
 
 

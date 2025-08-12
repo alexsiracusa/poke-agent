@@ -1,6 +1,6 @@
 from process_raw import process_raw_pokemon, process_raw_items, process_raw_abilities, process_raw_moves
 from process_final import process_final_moves, process_final_pokemon
-from process_tensors import process_move_tensors
+from process_tensors import process_move_tensors, process_pokemon_tensors
 
 data_dir = '../data'
 
@@ -18,6 +18,7 @@ process_final_pokemon(data_dir)
 
 print("\nPROCESSING TENSORS")
 process_move_tensors(data_dir)
+process_pokemon_tensors(data_dir)
 
 
 

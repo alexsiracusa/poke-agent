@@ -1,5 +1,6 @@
 import json
 import collections
+from data_processing.consts import TOP_N_ITEMS, TOP_N_TERA, TOP_N_SPREADS, TOP_N_MOVES
 
 
 def process_raw_pokemon(path):
@@ -8,11 +9,6 @@ def process_raw_pokemon(path):
 
     with open(f'{path}/raw/gen9ou.json', 'r') as f:
         pokemon_stats = json.load(f, object_pairs_hook=collections.OrderedDict)["pokemon"]
-
-    TOP_N_ITEMS = 5
-    TOP_N_TERA = 5
-    TOP_N_SPREADS = 5
-    TOP_N_MOVES = 15
 
     processed_pokemon = {}
 
