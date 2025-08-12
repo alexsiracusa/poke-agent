@@ -1,15 +1,15 @@
 ### Ability Features
 
-```json lines
+```
 {
-  "num": json,
+  "num": embedding,
   "rating": int
 }
 ```
 
 ### Item Features
 
-```json lines
+```
 {
   "num": embedding,
   "isBerry": boolean
@@ -18,7 +18,7 @@
 
 ### Move Features
 
-```json lines
+```
 {
   "num": embedding,
   "type": enum,
@@ -93,27 +93,17 @@
 }
 ```
 
-```json lines
-type: {
-    'Normal', 'Fire', 'Water', 'Electric', 'Grass', 'Ice', 'Fighting', 'Poison', 'Ground', 'Flying', 'Psychic', 'Bug', 'Rock', 'Ghost', 'Dragon', 'Dark', 'Steel', 'Fairy'
-}
-category: {
-    'Physical', 'Status', 'Special'
-}
-target: {
-    'scripted', 'allAdjacent', 'randomNormal', 'adjacentFoe', 'normal', 'self', 'allAdjacentFoes', 'adjacentAlly', 'all', 'allies', 'allyTeam', 'adjacentAllyOrSelf', 'any', 'allySide', 'foeSide'
-}
-status: {
-    'tox', 'slp', 'frz', 'brn', 'psn', 'par'
-}
-volatileStatus: {
-    'flinch', 'sparklingaria', 'saltcure', 'healblock', 'syrupbomb', 'confusion'
-}
+```
+type: ['Normal', 'Fire', 'Water', 'Electric', 'Grass', 'Ice', 'Fighting', 'Poison', 'Ground', 'Flying', 'Psychic', 'Bug', 'Rock', 'Ghost', 'Dragon', 'Dark', 'Steel', 'Fairy']
+category: ['Physical', 'Status', 'Special']
+target: ['scripted', 'allAdjacent', 'randomNormal', 'adjacentFoe', 'normal', 'self', 'allAdjacentFoes', 'adjacentAlly', 'all', 'allies', 'allyTeam', 'adjacentAllyOrSelf', 'any', 'allySide', 'foeSide']
+status: []'tox', 'slp', 'frz', 'brn', 'psn', 'par']
+volatileStatus: ['flinch', 'sparklingaria', 'saltcure', 'healblock', 'syrupbomb', 'confusion']
 ```
 
 ### Pokemon Features
 
-```json lines
+```
 {
   "num": embedding,
   "types": {
@@ -171,7 +161,7 @@ volatileStatus: {
 ```
 
 #### Pokemon Embedding Features
-```json lines
+```
 {
   "abilities": [embedding, embedding, embedding],
   "items": [embedding, embedding, embedding, embedding, embedding],
