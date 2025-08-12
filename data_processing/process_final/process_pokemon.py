@@ -110,7 +110,7 @@ def process_final_pokemon(path):
         trans = str.maketrans('', '', " -'()")
         embedding = {
             'abilities': (
-                [ability_lookup[a['name'].lower().translate(trans)] if a else -1 for a in pad(
+                [ability_lookup[a['name'].lower().translate(trans)] if a else 0 for a in pad(
                     get_nested(data, ['stats', 'abilities'],
                         default=[{'name': ability} for ability in data['abilities']]
                     ),
@@ -119,14 +119,14 @@ def process_final_pokemon(path):
                 )]
             ),
             'items': (
-                [item_lookup[a['name'].lower().translate(trans)] if a else -1 for a in pad(
+                [item_lookup[a['name'].lower().translate(trans)] if a else 0 for a in pad(
                     get_nested(data, ['stats', 'items'], []),
                     length=TOP_N_ITEMS,
                     value=None
                 )]
             ),
             'moves': (
-                [move_lookup[a['name'].lower().translate(trans)] if a else -1 for a in pad(
+                [move_lookup[a['name'].lower().translate(trans)] if a else 0 for a in pad(
                     get_nested(data, ['stats', 'moves'], []),
                     length=TOP_N_MOVES,
                     value=None
