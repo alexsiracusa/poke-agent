@@ -1,5 +1,6 @@
 import json
 import collections
+import re
 from data_processing.util import type_to_vec, nature_to_vec
 from data_processing.util import get_nested, pad
 from data_processing.consts import TOP_N_ITEMS, TOP_N_TERA, TOP_N_SPREADS, TOP_N_MOVES
@@ -10,7 +11,13 @@ def process_final_pokemon(path):
         pokemon = json.load(f, object_pairs_hook=collections.OrderedDict)
 
     with open(f'{path}/lookup/moves.json', 'r') as f:
-        moves_lookup = json.load(f, object_pairs_hook=collections.OrderedDict)
+        move_lookup = json.load(f, object_pairs_hook=collections.OrderedDict)
+
+    with open(f'{path}/lookup/items.json', 'r') as f:
+        item_lookup = json.load(f, object_pairs_hook=collections.OrderedDict)
+
+    with open(f'{path}/lookup/abilities.json', 'r') as f:
+        ability_lookup = json.load(f, object_pairs_hook=collections.OrderedDict)
 
     processed_pokemon = {}
     embedding_features = {}
@@ -93,20 +100,35 @@ def process_final_pokemon(path):
                 'move_frequencies': (
                     [a['frequency'] for a in pad(
                         get_nested(data, ['stats', 'moves'], []),
-                        length=15,
+                        length=TOP_N_MOVES,
                         value={'name': '', 'frequency': 0}
                     )]
                 ),
             }
         }
 
+        trans = str.maketrans('', '', " -'()")
         embedding = {
-            # "abilities": [embedding, embedding, embedding],
-            # "items": [embedding, embedding, embedding, embedding, embedding],
+            'abilities': (
+                [ability_lookup[a['name'].lower().translate(trans)] if a else -1 for a in pad(
+                    get_nested(data, ['stats', 'abilities'],
+                        default=[{'name': ability} for ability in data['abilities']]
+                    ),
+                    length=3,
+                    value=None
+                )]
+            ),
+            'items': (
+                [item_lookup[a['name'].lower().translate(trans)] if a else -1 for a in pad(
+                    get_nested(data, ['stats', 'items'], []),
+                    length=TOP_N_ITEMS,
+                    value=None
+                )]
+            ),
             'moves': (
-                [moves_lookup[a['name'].lower().replace(" ", "").replace("-", "")] if a else -1 for a in pad(
+                [move_lookup[a['name'].lower().translate(trans)] if a else -1 for a in pad(
                     get_nested(data, ['stats', 'moves'], []),
-                    length=15,
+                    length=TOP_N_MOVES,
                     value=None
                 )]
             )
