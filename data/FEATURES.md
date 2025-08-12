@@ -128,8 +128,8 @@ volatileStatus: {
     "spd": int / 100,
     "spe": int / 100
   },
-  "heightm": float,
-  "weightkg": float,
+  "heightm": float / 5,
+  "weightkg": float / 100,
   "stats": {
     "lead": {
       "raw": float,

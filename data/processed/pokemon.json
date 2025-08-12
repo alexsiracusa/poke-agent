@@ -86116,26 +86116,5 @@
                 }
             ]
         }
-    },
-    "missingno": {
-        "num": 0,
-        "name": "MissingNo.",
-        "types": [
-            "Bird",
-            "Normal"
-        ],
-        "baseStats": {
-            "hp": 33,
-            "atk": 136,
-            "def": 0,
-            "spa": 6,
-            "spd": 6,
-            "spe": 29
-        },
-        "heightm": 3,
-        "weightkg": 1590.8,
-        "abilities": [
-            ""
-        ]
     }
 }

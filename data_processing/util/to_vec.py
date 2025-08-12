@@ -4,7 +4,7 @@ from data_processing.util.util import make_one_hot_encoder
 types = [
     'Normal', 'Fire', 'Water', 'Electric', 'Grass', 'Ice',
     'Fighting', 'Poison', 'Ground', 'Flying', 'Psychic', 'Bug',
-    'Rock', 'Ghost', 'Dragon', 'Dark', 'Steel', 'Fairy'
+    'Rock', 'Ghost', 'Dragon', 'Dark', 'Steel', 'Fairy', 'Stellar'
 ]
 
 statuses = ['tox', 'slp', 'frz', 'brn', 'psn', 'par']

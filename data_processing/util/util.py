@@ -41,10 +41,11 @@ def make_one_hot_encoder(strings):
     return encoder
 
 
-
 def flatten_json_to_tensor(data, key_order=None):
     """
     Flattens a nested JSON into a 1D torch tensor.
+    Supports numbers, booleans, lists of numbers, lists of lists,
+    and lists of JSON objects.
 
     Parameters:
         data (dict): The nested JSON-like dictionary.
@@ -56,35 +57,47 @@ def flatten_json_to_tensor(data, key_order=None):
         key_order: List of key paths used, so you can reuse it for consistent ordering.
     """
 
+    def flatten_value(v):
+        """Recursively flatten a value that may be number, bool, list, or dict."""
+        if isinstance(v, bool) or isinstance(v, (int, float)):
+            return [float(v)]
+        elif isinstance(v, dict):
+            # dict should be processed in key order
+            values = []
+            for _, subval in sorted(v.items()):
+                values.extend(flatten_value(subval))
+            return values
+        elif isinstance(v, list):
+            values = []
+            for item in v:
+                values.extend(flatten_value(item))
+            return values
+        else:
+            raise ValueError(f"Unsupported leaf type: {type(v)}")
+
     def collect_items(d, path=()):
         items = []
-
         for k, v in sorted(d.items()):
             new_path = path + (k,)
             if isinstance(v, dict):
                 items.extend(collect_items(v, new_path))
-            elif isinstance(v, bool) or isinstance(v, (int, float)):
-                items.append((new_path, [float(v)]))
-            elif isinstance(v, list):
-                items.append((new_path, list(map(float, v))))
             else:
-                raise ValueError(f"Unsupported leaf type at {new_path}: {type(v)}")
-
+                # Store flattened value but keep path
+                items.append((new_path, flatten_value(v)))
         return items
 
-    # Step 1: If no key_order, extract and sort keys from this JSON
+    # Step 1: Determine key order if not given
     if key_order is None:
         collected = collect_items(data)
         key_order = [k for k, _ in collected]
     else:
         collected = collect_items(data)
         collected_dict = dict(collected)
-        # Ensure all keys exist
         for k in key_order:
             if k not in collected_dict:
                 raise ValueError(f"Missing key path {k} in input JSON")
 
-    # Step 2: Flatten in consistent order
+    # Step 2: Flatten values in consistent order
     flat_values = []
     collected_dict = dict(collected)
     for k in key_order:
@@ -92,3 +105,6 @@ def flatten_json_to_tensor(data, key_order=None):
 
     return torch.tensor(flat_values, dtype=torch.float32)
 
+
+def pad(array, length, value=0):
+    return array + [value] * (length - len(array))

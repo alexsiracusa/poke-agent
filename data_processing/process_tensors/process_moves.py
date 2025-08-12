@@ -23,6 +23,9 @@ def process_move_tensors(path):
     with open(f'{path}/lookup/moves.json', 'w') as f:
         json.dump(lookup, f, indent=4, sort_keys=False)
 
+    if __name__ == '__main__':
+        print(tensors.shape)
+
     print('processed move tensors')
 
 

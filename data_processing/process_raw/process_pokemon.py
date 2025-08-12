@@ -18,7 +18,7 @@ def process_raw_pokemon(path):
 
     for num, (key, data) in enumerate(pokemon.items()):
         # pokemon with negative numbers are unofficial/not in the real games
-        if data['num'] < 0:
+        if data['num'] <= 0:
             continue
 
         pokemon = {
