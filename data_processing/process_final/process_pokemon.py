@@ -9,9 +9,11 @@ def process_final_pokemon(path):
     with open(f'{path}/processed/pokemon.json', 'r') as f:
         pokemon = json.load(f, object_pairs_hook=collections.OrderedDict)
 
+    with open(f'{path}/lookup/moves.json', 'r') as f:
+        moves_lookup = json.load(f, object_pairs_hook=collections.OrderedDict)
+
     processed_pokemon = {}
     embedding_features = {}
-
 
     for key, data in pokemon.items():
         pokemon = {
@@ -97,10 +99,27 @@ def process_final_pokemon(path):
                 ),
             }
         }
+
+        embedding = {
+            # "abilities": [embedding, embedding, embedding],
+            # "items": [embedding, embedding, embedding, embedding, embedding],
+            'moves': (
+                [moves_lookup[a['name'].lower().replace(" ", "").replace("-", "")] if a else -1 for a in pad(
+                    get_nested(data, ['stats', 'moves'], []),
+                    length=15,
+                    value=None
+                )]
+            )
+        }
+
         processed_pokemon[key] = pokemon
+        embedding_features[key] = embedding
 
     with open(f'{path}/final/pokemon.json', 'w') as f:
         json.dump(processed_pokemon, f, indent=4, sort_keys=False)
+
+    with open(f'{path}/final/pokemon_embeddings.json', 'w') as f:
+        json.dump(embedding_features, f, indent=4, sort_keys=False)
 
     print('processed final pokemon')
 

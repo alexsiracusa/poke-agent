@@ -1,0 +1,935 @@
+{
+    "noability": {
+        "rating": 0.1
+    },
+    "adaptability": {
+        "rating": 4
+    },
+    "aerilate": {
+        "rating": 4
+    },
+    "aftermath": {
+        "rating": 2
+    },
+    "airlock": {
+        "rating": 1.5
+    },
+    "analytic": {
+        "rating": 2.5
+    },
+    "angerpoint": {
+        "rating": 1
+    },
+    "angershell": {
+        "rating": 3
+    },
+    "anticipation": {
+        "rating": 0.5
+    },
+    "arenatrap": {
+        "rating": 5
+    },
+    "armortail": {
+        "rating": 2.5
+    },
+    "aromaveil": {
+        "rating": 2
+    },
+    "asoneglastrier": {
+        "rating": 3.5
+    },
+    "asonespectrier": {
+        "rating": 3.5
+    },
+    "aurabreak": {
+        "rating": 1
+    },
+    "baddreams": {
+        "rating": 1.5
+    },
+    "ballfetch": {
+        "rating": 0
+    },
+    "battery": {
+        "rating": 0
+    },
+    "battlearmor": {
+        "rating": 1
+    },
+    "battlebond": {
+        "rating": 3.5
+    },
+    "beadsofruin": {
+        "rating": 4.5
+    },
+    "beastboost": {
+        "rating": 3.5
+    },
+    "berserk": {
+        "rating": 2
+    },
+    "bigpecks": {
+        "rating": 0.5
+    },
+    "blaze": {
+        "rating": 2
+    },
+    "bulletproof": {
+        "rating": 3
+    },
+    "cheekpouch": {
+        "rating": 2
+    },
+    "chillingneigh": {
+        "rating": 3
+    },
+    "chlorophyll": {
+        "rating": 3
+    },
+    "clearbody": {
+        "rating": 2
+    },
+    "cloudnine": {
+        "rating": 1.5
+    },
+    "colorchange": {
+        "rating": 0
+    },
+    "comatose": {
+        "rating": 4
+    },
+    "commander": {
+        "rating": 0
+    },
+    "competitive": {
+        "rating": 2.5
+    },
+    "compoundeyes": {
+        "rating": 3
+    },
+    "contrary": {
+        "rating": 4.5
+    },
+    "corrosion": {
+        "rating": 2.5
+    },
+    "costar": {
+        "rating": 0
+    },
+    "cottondown": {
+        "rating": 2
+    },
+    "cudchew": {
+        "rating": 2
+    },
+    "curiousmedicine": {
+        "rating": 0
+    },
+    "cursedbody": {
+        "rating": 2
+    },
+    "cutecharm": {
+        "rating": 0.5
+    },
+    "damp": {
+        "rating": 0.5
+    },
+    "dancer": {
+        "rating": 1.5
+    },
+    "darkaura": {
+        "rating": 3
+    },
+    "dauntlessshield": {
+        "rating": 3.5
+    },
+    "dazzling": {
+        "rating": 2.5
+    },
+    "defeatist": {
+        "rating": -1
+    },
+    "defiant": {
+        "rating": 3
+    },
+    "deltastream": {
+        "rating": 4
+    },
+    "desolateland": {
+        "rating": 4.5
+    },
+    "disguise": {
+        "rating": 3.5
+    },
+    "download": {
+        "rating": 3.5
+    },
+    "dragonsmaw": {
+        "rating": 3.5
+    },
+    "drizzle": {
+        "rating": 4
+    },
+    "drought": {
+        "rating": 4
+    },
+    "dryskin": {
+        "rating": 3
+    },
+    "earlybird": {
+        "rating": 1.5
+    },
+    "eartheater": {
+        "rating": 3.5
+    },
+    "effectspore": {
+        "rating": 2
+    },
+    "electricsurge": {
+        "rating": 4
+    },
+    "electromorphosis": {
+        "rating": 3
+    },
+    "embodyaspectcornerstone": {
+        "rating": 3.5
+    },
+    "embodyaspecthearthflame": {
+        "rating": 3.5
+    },
+    "embodyaspectteal": {
+        "rating": 3.5
+    },
+    "embodyaspectwellspring": {
+        "rating": 3.5
+    },
+    "emergencyexit": {
+        "rating": 1
+    },
+    "fairyaura": {
+        "rating": 3
+    },
+    "filter": {
+        "rating": 3
+    },
+    "flamebody": {
+        "rating": 2
+    },
+    "flareboost": {
+        "rating": 2
+    },
+    "flashfire": {
+        "rating": 3.5
+    },
+    "flowergift": {
+        "rating": 1
+    },
+    "flowerveil": {
+        "rating": 0
+    },
+    "fluffy": {
+        "rating": 3.5
+    },
+    "forecast": {
+        "rating": 2
+    },
+    "forewarn": {
+        "rating": 0.5
+    },
+    "friendguard": {
+        "rating": 0
+    },
+    "frisk": {
+        "rating": 1.5
+    },
+    "fullmetalbody": {
+        "rating": 2
+    },
+    "furcoat": {
+        "rating": 4
+    },
+    "galewings": {
+        "rating": 1.5
+    },
+    "galvanize": {
+        "rating": 4
+    },
+    "gluttony": {
+        "rating": 1.5
+    },
+    "goodasgold": {
+        "rating": 5
+    },
+    "gooey": {
+        "rating": 2
+    },
+    "gorillatactics": {
+        "rating": 4.5
+    },
+    "grasspelt": {
+        "rating": 0.5
+    },
+    "grassysurge": {
+        "rating": 4
+    },
+    "grimneigh": {
+        "rating": 3
+    },
+    "guarddog": {
+        "rating": 2
+    },
+    "gulpmissile": {
+        "rating": 2.5
+    },
+    "guts": {
+        "rating": 3.5
+    },
+    "hadronengine": {
+        "rating": 4.5
+    },
+    "harvest": {
+        "rating": 2.5
+    },
+    "healer": {
+        "rating": 0
+    },
+    "heatproof": {
+        "rating": 2
+    },
+    "heavymetal": {
+        "rating": 0
+    },
+    "honeygather": {
+        "rating": 0
+    },
+    "hospitality": {
+        "rating": 0
+    },
+    "hugepower": {
+        "rating": 5
+    },
+    "hungerswitch": {
+        "rating": 1
+    },
+    "hustle": {
+        "rating": 3.5
+    },
+    "hydration": {
+        "rating": 1.5
+    },
+    "hypercutter": {
+        "rating": 1.5
+    },
+    "icebody": {
+        "rating": 1
+    },
+    "iceface": {
+        "rating": 3
+    },
+    "icescales": {
+        "rating": 4
+    },
+    "illuminate": {
+        "rating": 0.5
+    },
+    "illusion": {
+        "rating": 4.5
+    },
+    "immunity": {
+        "rating": 2
+    },
+    "imposter": {
+        "rating": 5
+    },
+    "infiltrator": {
+        "rating": 2.5
+    },
+    "innardsout": {
+        "rating": 4
+    },
+    "innerfocus": {
+        "rating": 1
+    },
+    "insomnia": {
+        "rating": 1.5
+    },
+    "intimidate": {
+        "rating": 3.5
+    },
+    "intrepidsword": {
+        "rating": 4
+    },
+    "ironbarbs": {
+        "rating": 2.5
+    },
+    "ironfist": {
+        "rating": 3
+    },
+    "justified": {
+        "rating": 2.5
+    },
+    "keeneye": {
+        "rating": 0.5
+    },
+    "klutz": {
+        "rating": -1
+    },
+    "leafguard": {
+        "rating": 0.5
+    },
+    "levitate": {
+        "rating": 3.5
+    },
+    "libero": {
+        "rating": 4
+    },
+    "lightmetal": {
+        "rating": 1
+    },
+    "lightningrod": {
+        "rating": 3
+    },
+    "limber": {
+        "rating": 2
+    },
+    "lingeringaroma": {
+        "rating": 2
+    },
+    "liquidooze": {
+        "rating": 2.5
+    },
+    "liquidvoice": {
+        "rating": 1.5
+    },
+    "longreach": {
+        "rating": 1
+    },
+    "magicbounce": {
+        "rating": 4
+    },
+    "magicguard": {
+        "rating": 4
+    },
+    "magician": {
+        "rating": 1
+    },
+    "magmaarmor": {
+        "rating": 0.5
+    },
+    "magnetpull": {
+        "rating": 4
+    },
+    "marvelscale": {
+        "rating": 2.5
+    },
+    "megalauncher": {
+        "rating": 3
+    },
+    "merciless": {
+        "rating": 1.5
+    },
+    "mimicry": {
+        "rating": 0
+    },
+    "mindseye": {
+        "rating": 0
+    },
+    "minus": {
+        "rating": 0
+    },
+    "mirrorarmor": {
+        "rating": 2
+    },
+    "mistysurge": {
+        "rating": 3.5
+    },
+    "moldbreaker": {
+        "rating": 3
+    },
+    "moody": {
+        "rating": 5
+    },
+    "motordrive": {
+        "rating": 3
+    },
+    "moxie": {
+        "rating": 3
+    },
+    "multiscale": {
+        "rating": 3.5
+    },
+    "multitype": {
+        "rating": 4
+    },
+    "mummy": {
+        "rating": 2
+    },
+    "myceliummight": {
+        "rating": 2
+    },
+    "naturalcure": {
+        "rating": 2.5
+    },
+    "neuroforce": {
+        "rating": 2.5
+    },
+    "neutralizinggas": {
+        "rating": 3.5
+    },
+    "noguard": {
+        "rating": 4
+    },
+    "normalize": {
+        "rating": 0
+    },
+    "oblivious": {
+        "rating": 1.5
+    },
+    "opportunist": {
+        "rating": 3
+    },
+    "orichalcumpulse": {
+        "rating": 4.5
+    },
+    "overcoat": {
+        "rating": 2
+    },
+    "overgrow": {
+        "rating": 2
+    },
+    "owntempo": {
+        "rating": 1.5
+    },
+    "parentalbond": {
+        "rating": 4.5
+    },
+    "pastelveil": {
+        "rating": 2
+    },
+    "perishbody": {
+        "rating": 1
+    },
+    "pickpocket": {
+        "rating": 1
+    },
+    "pickup": {
+        "rating": 0.5
+    },
+    "pixilate": {
+        "rating": 4
+    },
+    "plus": {
+        "rating": 0
+    },
+    "poisonheal": {
+        "rating": 4
+    },
+    "poisonpoint": {
+        "rating": 1.5
+    },
+    "poisonpuppeteer": {
+        "rating": 3
+    },
+    "poisontouch": {
+        "rating": 2
+    },
+    "powerconstruct": {
+        "rating": 5
+    },
+    "powerofalchemy": {
+        "rating": 0
+    },
+    "powerspot": {
+        "rating": 0
+    },
+    "prankster": {
+        "rating": 4
+    },
+    "pressure": {
+        "rating": 2.5
+    },
+    "primordialsea": {
+        "rating": 4.5
+    },
+    "prismarmor": {
+        "rating": 3
+    },
+    "propellertail": {
+        "rating": 0
+    },
+    "protean": {
+        "rating": 4
+    },
+    "protosynthesis": {
+        "rating": 3
+    },
+    "psychicsurge": {
+        "rating": 4
+    },
+    "punkrock": {
+        "rating": 3.5
+    },
+    "purepower": {
+        "rating": 5
+    },
+    "purifyingsalt": {
+        "rating": 4
+    },
+    "quarkdrive": {
+        "rating": 3
+    },
+    "queenlymajesty": {
+        "rating": 2.5
+    },
+    "quickdraw": {
+        "rating": 2.5
+    },
+    "quickfeet": {
+        "rating": 2.5
+    },
+    "raindish": {
+        "rating": 1.5
+    },
+    "rattled": {
+        "rating": 1
+    },
+    "receiver": {
+        "rating": 0
+    },
+    "reckless": {
+        "rating": 3
+    },
+    "refrigerate": {
+        "rating": 4
+    },
+    "regenerator": {
+        "rating": 4.5
+    },
+    "ripen": {
+        "rating": 2
+    },
+    "rivalry": {
+        "rating": 0
+    },
+    "rkssystem": {
+        "rating": 4
+    },
+    "rockhead": {
+        "rating": 3
+    },
+    "rockypayload": {
+        "rating": 3.5
+    },
+    "roughskin": {
+        "rating": 2.5
+    },
+    "runaway": {
+        "rating": 0
+    },
+    "sandforce": {
+        "rating": 2
+    },
+    "sandrush": {
+        "rating": 3
+    },
+    "sandspit": {
+        "rating": 1
+    },
+    "sandstream": {
+        "rating": 4
+    },
+    "sandveil": {
+        "rating": 1.5
+    },
+    "sapsipper": {
+        "rating": 3
+    },
+    "schooling": {
+        "rating": 3
+    },
+    "scrappy": {
+        "rating": 3
+    },
+    "screencleaner": {
+        "rating": 2
+    },
+    "seedsower": {
+        "rating": 2.5
+    },
+    "serenegrace": {
+        "rating": 3.5
+    },
+    "shadowshield": {
+        "rating": 3.5
+    },
+    "shadowtag": {
+        "rating": 5
+    },
+    "sharpness": {
+        "rating": 3.5
+    },
+    "shedskin": {
+        "rating": 3
+    },
+    "sheerforce": {
+        "rating": 3.5
+    },
+    "shellarmor": {
+        "rating": 1
+    },
+    "shielddust": {
+        "rating": 2
+    },
+    "shieldsdown": {
+        "rating": 3
+    },
+    "simple": {
+        "rating": 4
+    },
+    "skilllink": {
+        "rating": 3
+    },
+    "slowstart": {
+        "rating": -1
+    },
+    "slushrush": {
+        "rating": 3
+    },
+    "sniper": {
+        "rating": 2
+    },
+    "snowcloak": {
+        "rating": 1.5
+    },
+    "snowwarning": {
+        "rating": 4
+    },
+    "solarpower": {
+        "rating": 2
+    },
+    "solidrock": {
+        "rating": 3
+    },
+    "soulheart": {
+        "rating": 3.5
+    },
+    "soundproof": {
+        "rating": 2
+    },
+    "speedboost": {
+        "rating": 4.5
+    },
+    "stakeout": {
+        "rating": 4.5
+    },
+    "stall": {
+        "rating": -1
+    },
+    "stalwart": {
+        "rating": 0
+    },
+    "stamina": {
+        "rating": 4
+    },
+    "stancechange": {
+        "rating": 4
+    },
+    "static": {
+        "rating": 2
+    },
+    "steadfast": {
+        "rating": 1
+    },
+    "steamengine": {
+        "rating": 2
+    },
+    "steelworker": {
+        "rating": 3.5
+    },
+    "steelyspirit": {
+        "rating": 3.5
+    },
+    "stench": {
+        "rating": 0.5
+    },
+    "stickyhold": {
+        "rating": 1.5
+    },
+    "stormdrain": {
+        "rating": 3
+    },
+    "strongjaw": {
+        "rating": 3.5
+    },
+    "sturdy": {
+        "rating": 3
+    },
+    "suctioncups": {
+        "rating": 1
+    },
+    "superluck": {
+        "rating": 1.5
+    },
+    "supersweetsyrup": {
+        "rating": 1.5
+    },
+    "supremeoverlord": {
+        "rating": 4
+    },
+    "surgesurfer": {
+        "rating": 3
+    },
+    "swarm": {
+        "rating": 2
+    },
+    "sweetveil": {
+        "rating": 2
+    },
+    "swiftswim": {
+        "rating": 3
+    },
+    "symbiosis": {
+        "rating": 0
+    },
+    "synchronize": {
+        "rating": 2
+    },
+    "swordofruin": {
+        "rating": 4.5
+    },
+    "tabletsofruin": {
+        "rating": 4.5
+    },
+    "tangledfeet": {
+        "rating": 1
+    },
+    "tanglinghair": {
+        "rating": 2
+    },
+    "technician": {
+        "rating": 3.5
+    },
+    "telepathy": {
+        "rating": 0
+    },
+    "teraformzero": {
+        "rating": 3
+    },
+    "terashell": {
+        "rating": 3.5
+    },
+    "terashift": {
+        "rating": 3
+    },
+    "teravolt": {
+        "rating": 3
+    },
+    "thermalexchange": {
+        "rating": 2.5
+    },
+    "thickfat": {
+        "rating": 3.5
+    },
+    "tintedlens": {
+        "rating": 4
+    },
+    "torrent": {
+        "rating": 2
+    },
+    "toughclaws": {
+        "rating": 3.5
+    },
+    "toxicboost": {
+        "rating": 3
+    },
+    "toxicchain": {
+        "rating": 4.5
+    },
+    "toxicdebris": {
+        "rating": 3.5
+    },
+    "trace": {
+        "rating": 2.5
+    },
+    "transistor": {
+        "rating": 3.5
+    },
+    "triage": {
+        "rating": 3.5
+    },
+    "truant": {
+        "rating": -1
+    },
+    "turboblaze": {
+        "rating": 3
+    },
+    "unaware": {
+        "rating": 4
+    },
+    "unburden": {
+        "rating": 3.5
+    },
+    "unnerve": {
+        "rating": 1
+    },
+    "unseenfist": {
+        "rating": 2
+    },
+    "vesselofruin": {
+        "rating": 4.5
+    },
+    "victorystar": {
+        "rating": 2
+    },
+    "vitalspirit": {
+        "rating": 1.5
+    },
+    "voltabsorb": {
+        "rating": 3.5
+    },
+    "wanderingspirit": {
+        "rating": 2.5
+    },
+    "waterabsorb": {
+        "rating": 3.5
+    },
+    "waterbubble": {
+        "rating": 4.5
+    },
+    "watercompaction": {
+        "rating": 1.5
+    },
+    "waterveil": {
+        "rating": 2
+    },
+    "weakarmor": {
+        "rating": 1
+    },
+    "wellbakedbody": {
+        "rating": 3.5
+    },
+    "whitesmoke": {
+        "rating": 2
+    },
+    "wimpout": {
+        "rating": 1
+    },
+    "windpower": {
+        "rating": 1
+    },
+    "windrider": {
+        "rating": 3.5
+    },
+    "wonderguard": {
+        "rating": 5
+    },
+    "wonderskin": {
+        "rating": 2
+    },
+    "zenmode": {
+        "rating": 0
+    },
+    "zerotohero": {
+        "rating": 5
+    }
+}

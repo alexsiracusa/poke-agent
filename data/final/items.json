@@ -1,0 +1,746 @@
+{
+    "abilityshield": {
+        "isBerry": false
+    },
+    "absorbbulb": {
+        "isBerry": false
+    },
+    "adamantcrystal": {
+        "isBerry": false
+    },
+    "adamantorb": {
+        "isBerry": false
+    },
+    "adrenalineorb": {
+        "isBerry": false
+    },
+    "aguavberry": {
+        "isBerry": false
+    },
+    "airballoon": {
+        "isBerry": false
+    },
+    "apicotberry": {
+        "isBerry": false
+    },
+    "aspearberry": {
+        "isBerry": false
+    },
+    "assaultvest": {
+        "isBerry": false
+    },
+    "auspiciousarmor": {
+        "isBerry": false
+    },
+    "babiriberry": {
+        "isBerry": false
+    },
+    "beastball": {
+        "isBerry": false
+    },
+    "berrysweet": {
+        "isBerry": false
+    },
+    "bignugget": {
+        "isBerry": false
+    },
+    "bigroot": {
+        "isBerry": false
+    },
+    "bindingband": {
+        "isBerry": false
+    },
+    "blackbelt": {
+        "isBerry": false
+    },
+    "blackglasses": {
+        "isBerry": false
+    },
+    "blacksludge": {
+        "isBerry": false
+    },
+    "blunderpolicy": {
+        "isBerry": false
+    },
+    "boosterenergy": {
+        "isBerry": false
+    },
+    "bottlecap": {
+        "isBerry": false
+    },
+    "brightpowder": {
+        "isBerry": false
+    },
+    "cellbattery": {
+        "isBerry": false
+    },
+    "charcoal": {
+        "isBerry": false
+    },
+    "chartiberry": {
+        "isBerry": false
+    },
+    "cheriberry": {
+        "isBerry": false
+    },
+    "chestoberry": {
+        "isBerry": false
+    },
+    "chilanberry": {
+        "isBerry": false
+    },
+    "chippedpot": {
+        "isBerry": false
+    },
+    "choiceband": {
+        "isBerry": false
+    },
+    "choicescarf": {
+        "isBerry": false
+    },
+    "choicespecs": {
+        "isBerry": false
+    },
+    "chopleberry": {
+        "isBerry": false
+    },
+    "clearamulet": {
+        "isBerry": false
+    },
+    "cloversweet": {
+        "isBerry": false
+    },
+    "cobaberry": {
+        "isBerry": false
+    },
+    "colburberry": {
+        "isBerry": false
+    },
+    "cornerstonemask": {
+        "isBerry": false
+    },
+    "covertcloak": {
+        "isBerry": false
+    },
+    "crackedpot": {
+        "isBerry": false
+    },
+    "custapberry": {
+        "isBerry": false
+    },
+    "damprock": {
+        "isBerry": false
+    },
+    "dawnstone": {
+        "isBerry": false
+    },
+    "destinyknot": {
+        "isBerry": false
+    },
+    "diveball": {
+        "isBerry": false
+    },
+    "dracoplate": {
+        "isBerry": false
+    },
+    "dragonfang": {
+        "isBerry": false
+    },
+    "dragonscale": {
+        "isBerry": false
+    },
+    "dreadplate": {
+        "isBerry": false
+    },
+    "dreamball": {
+        "isBerry": false
+    },
+    "dubiousdisc": {
+        "isBerry": false
+    },
+    "duskball": {
+        "isBerry": false
+    },
+    "duskstone": {
+        "isBerry": false
+    },
+    "earthplate": {
+        "isBerry": false
+    },
+    "ejectbutton": {
+        "isBerry": false
+    },
+    "ejectpack": {
+        "isBerry": false
+    },
+    "electirizer": {
+        "isBerry": false
+    },
+    "electricseed": {
+        "isBerry": false
+    },
+    "enigmaberry": {
+        "isBerry": false
+    },
+    "eviolite": {
+        "isBerry": false
+    },
+    "expertbelt": {
+        "isBerry": false
+    },
+    "fairyfeather": {
+        "isBerry": false
+    },
+    "fastball": {
+        "isBerry": false
+    },
+    "figyberry": {
+        "isBerry": false
+    },
+    "firestone": {
+        "isBerry": false
+    },
+    "fistplate": {
+        "isBerry": false
+    },
+    "flameorb": {
+        "isBerry": false
+    },
+    "flameplate": {
+        "isBerry": false
+    },
+    "floatstone": {
+        "isBerry": false
+    },
+    "flowersweet": {
+        "isBerry": false
+    },
+    "focusband": {
+        "isBerry": false
+    },
+    "focussash": {
+        "isBerry": false
+    },
+    "friendball": {
+        "isBerry": false
+    },
+    "galaricacuff": {
+        "isBerry": false
+    },
+    "galaricawreath": {
+        "isBerry": false
+    },
+    "ganlonberry": {
+        "isBerry": false
+    },
+    "goldbottlecap": {
+        "isBerry": false
+    },
+    "grassyseed": {
+        "isBerry": false
+    },
+    "greatball": {
+        "isBerry": false
+    },
+    "grepaberry": {
+        "isBerry": false
+    },
+    "gripclaw": {
+        "isBerry": false
+    },
+    "griseouscore": {
+        "isBerry": false
+    },
+    "griseousorb": {
+        "isBerry": false
+    },
+    "habanberry": {
+        "isBerry": false
+    },
+    "hardstone": {
+        "isBerry": false
+    },
+    "healball": {
+        "isBerry": false
+    },
+    "hearthflamemask": {
+        "isBerry": false
+    },
+    "heatrock": {
+        "isBerry": false
+    },
+    "heavyball": {
+        "isBerry": false
+    },
+    "heavydutyboots": {
+        "isBerry": false
+    },
+    "hondewberry": {
+        "isBerry": false
+    },
+    "iapapaberry": {
+        "isBerry": false
+    },
+    "icestone": {
+        "isBerry": false
+    },
+    "icicleplate": {
+        "isBerry": false
+    },
+    "icyrock": {
+        "isBerry": false
+    },
+    "insectplate": {
+        "isBerry": false
+    },
+    "ironball": {
+        "isBerry": false
+    },
+    "ironplate": {
+        "isBerry": false
+    },
+    "jabocaberry": {
+        "isBerry": false
+    },
+    "kasibberry": {
+        "isBerry": false
+    },
+    "kebiaberry": {
+        "isBerry": false
+    },
+    "keeberry": {
+        "isBerry": false
+    },
+    "kelpsyberry": {
+        "isBerry": false
+    },
+    "kingsrock": {
+        "isBerry": false
+    },
+    "laggingtail": {
+        "isBerry": false
+    },
+    "lansatberry": {
+        "isBerry": false
+    },
+    "leafstone": {
+        "isBerry": false
+    },
+    "leftovers": {
+        "isBerry": false
+    },
+    "leppaberry": {
+        "isBerry": false
+    },
+    "levelball": {
+        "isBerry": false
+    },
+    "liechiberry": {
+        "isBerry": false
+    },
+    "lifeorb": {
+        "isBerry": false
+    },
+    "lightball": {
+        "isBerry": false
+    },
+    "lightclay": {
+        "isBerry": false
+    },
+    "loadeddice": {
+        "isBerry": false
+    },
+    "loveball": {
+        "isBerry": false
+    },
+    "lovesweet": {
+        "isBerry": false
+    },
+    "lumberry": {
+        "isBerry": false
+    },
+    "luminousmoss": {
+        "isBerry": false
+    },
+    "lureball": {
+        "isBerry": false
+    },
+    "lustrousglobe": {
+        "isBerry": false
+    },
+    "lustrousorb": {
+        "isBerry": false
+    },
+    "luxuryball": {
+        "isBerry": false
+    },
+    "magmarizer": {
+        "isBerry": false
+    },
+    "magnet": {
+        "isBerry": false
+    },
+    "magoberry": {
+        "isBerry": false
+    },
+    "maliciousarmor": {
+        "isBerry": false
+    },
+    "marangaberry": {
+        "isBerry": false
+    },
+    "masterball": {
+        "isBerry": false
+    },
+    "masterpieceteacup": {
+        "isBerry": false
+    },
+    "meadowplate": {
+        "isBerry": false
+    },
+    "mentalherb": {
+        "isBerry": false
+    },
+    "metalalloy": {
+        "isBerry": false
+    },
+    "metalcoat": {
+        "isBerry": false
+    },
+    "metronome": {
+        "isBerry": false
+    },
+    "micleberry": {
+        "isBerry": false
+    },
+    "mindplate": {
+        "isBerry": false
+    },
+    "miracleseed": {
+        "isBerry": false
+    },
+    "mirrorherb": {
+        "isBerry": false
+    },
+    "mistyseed": {
+        "isBerry": false
+    },
+    "moonball": {
+        "isBerry": false
+    },
+    "moonstone": {
+        "isBerry": false
+    },
+    "muscleband": {
+        "isBerry": false
+    },
+    "mysticwater": {
+        "isBerry": false
+    },
+    "nestball": {
+        "isBerry": false
+    },
+    "netball": {
+        "isBerry": false
+    },
+    "nevermeltice": {
+        "isBerry": false
+    },
+    "normalgem": {
+        "isBerry": false
+    },
+    "occaberry": {
+        "isBerry": false
+    },
+    "oranberry": {
+        "isBerry": false
+    },
+    "ovalstone": {
+        "isBerry": false
+    },
+    "passhoberry": {
+        "isBerry": false
+    },
+    "payapaberry": {
+        "isBerry": false
+    },
+    "pechaberry": {
+        "isBerry": false
+    },
+    "persimberry": {
+        "isBerry": false
+    },
+    "petayaberry": {
+        "isBerry": false
+    },
+    "pixieplate": {
+        "isBerry": false
+    },
+    "poisonbarb": {
+        "isBerry": false
+    },
+    "pokeball": {
+        "isBerry": false
+    },
+    "pomegberry": {
+        "isBerry": false
+    },
+    "poweranklet": {
+        "isBerry": false
+    },
+    "powerband": {
+        "isBerry": false
+    },
+    "powerbelt": {
+        "isBerry": false
+    },
+    "powerbracer": {
+        "isBerry": false
+    },
+    "powerherb": {
+        "isBerry": false
+    },
+    "powerlens": {
+        "isBerry": false
+    },
+    "powerweight": {
+        "isBerry": false
+    },
+    "premierball": {
+        "isBerry": false
+    },
+    "prismscale": {
+        "isBerry": false
+    },
+    "protectivepads": {
+        "isBerry": false
+    },
+    "protector": {
+        "isBerry": false
+    },
+    "psychicseed": {
+        "isBerry": false
+    },
+    "punchingglove": {
+        "isBerry": false
+    },
+    "qualotberry": {
+        "isBerry": false
+    },
+    "quickball": {
+        "isBerry": false
+    },
+    "quickclaw": {
+        "isBerry": false
+    },
+    "rarebone": {
+        "isBerry": false
+    },
+    "rawstberry": {
+        "isBerry": false
+    },
+    "razorclaw": {
+        "isBerry": false
+    },
+    "razorfang": {
+        "isBerry": false
+    },
+    "reapercloth": {
+        "isBerry": false
+    },
+    "redcard": {
+        "isBerry": false
+    },
+    "repeatball": {
+        "isBerry": false
+    },
+    "ribbonsweet": {
+        "isBerry": false
+    },
+    "rindoberry": {
+        "isBerry": false
+    },
+    "ringtarget": {
+        "isBerry": false
+    },
+    "rockyhelmet": {
+        "isBerry": false
+    },
+    "roomservice": {
+        "isBerry": false
+    },
+    "roseliberry": {
+        "isBerry": false
+    },
+    "rowapberry": {
+        "isBerry": false
+    },
+    "rustedshield": {
+        "isBerry": false
+    },
+    "rustedsword": {
+        "isBerry": false
+    },
+    "safariball": {
+        "isBerry": false
+    },
+    "safetygoggles": {
+        "isBerry": false
+    },
+    "salacberry": {
+        "isBerry": false
+    },
+    "scopelens": {
+        "isBerry": false
+    },
+    "sharpbeak": {
+        "isBerry": false
+    },
+    "shedshell": {
+        "isBerry": false
+    },
+    "shellbell": {
+        "isBerry": false
+    },
+    "shinystone": {
+        "isBerry": false
+    },
+    "shucaberry": {
+        "isBerry": false
+    },
+    "silkscarf": {
+        "isBerry": false
+    },
+    "silverpowder": {
+        "isBerry": false
+    },
+    "sitrusberry": {
+        "isBerry": false
+    },
+    "skyplate": {
+        "isBerry": false
+    },
+    "smoothrock": {
+        "isBerry": false
+    },
+    "snowball": {
+        "isBerry": false
+    },
+    "softsand": {
+        "isBerry": false
+    },
+    "souldew": {
+        "isBerry": false
+    },
+    "spelltag": {
+        "isBerry": false
+    },
+    "splashplate": {
+        "isBerry": false
+    },
+    "spookyplate": {
+        "isBerry": false
+    },
+    "sportball": {
+        "isBerry": false
+    },
+    "starfberry": {
+        "isBerry": false
+    },
+    "starsweet": {
+        "isBerry": false
+    },
+    "stickybarb": {
+        "isBerry": false
+    },
+    "stoneplate": {
+        "isBerry": false
+    },
+    "strawberrysweet": {
+        "isBerry": false
+    },
+    "sunstone": {
+        "isBerry": false
+    },
+    "sweetapple": {
+        "isBerry": false
+    },
+    "syrupyapple": {
+        "isBerry": false
+    },
+    "tamatoberry": {
+        "isBerry": false
+    },
+    "tangaberry": {
+        "isBerry": false
+    },
+    "tartapple": {
+        "isBerry": false
+    },
+    "terrainextender": {
+        "isBerry": false
+    },
+    "throatspray": {
+        "isBerry": false
+    },
+    "thunderstone": {
+        "isBerry": false
+    },
+    "timerball": {
+        "isBerry": false
+    },
+    "toxicorb": {
+        "isBerry": false
+    },
+    "toxicplate": {
+        "isBerry": false
+    },
+    "twistedspoon": {
+        "isBerry": false
+    },
+    "ultraball": {
+        "isBerry": false
+    },
+    "unremarkableteacup": {
+        "isBerry": false
+    },
+    "upgrade": {
+        "isBerry": false
+    },
+    "utilityumbrella": {
+        "isBerry": false
+    },
+    "wacanberry": {
+        "isBerry": false
+    },
+    "waterstone": {
+        "isBerry": false
+    },
+    "weaknesspolicy": {
+        "isBerry": false
+    },
+    "wellspringmask": {
+        "isBerry": false
+    },
+    "whiteherb": {
+        "isBerry": false
+    },
+    "widelens": {
+        "isBerry": false
+    },
+    "wikiberry": {
+        "isBerry": false
+    },
+    "wiseglasses": {
+        "isBerry": false
+    },
+    "yacheberry": {
+        "isBerry": false
+    },
+    "zapplate": {
+        "isBerry": false
+    },
+    "zoomlens": {
+        "isBerry": false
+    }
+}

@@ -1,32 +1,7 @@
-import json
-import collections
-import torch
-from data_processing.util.util import flatten_json_to_tensor
+from data_processing.process_tensors import process
 
-
-def process_pokemon_tensors(path):
-    with open(f'{path}/final/pokemon.json', 'r') as f:
-        moves = json.load(f, object_pairs_hook=collections.OrderedDict)
-
-    tensors = []
-    lookup = {}
-
-    for num, (key, data) in enumerate(moves.items()):
-        lookup[key] = num
-        del data['num']
-        tensors.append(flatten_json_to_tensor(data))
-
-    tensors = torch.stack(tensors, dim=0)
-
-    torch.save(tensors, f'{path}/tensors/pokemon.pt')
-    with open(f'{path}/lookup/pokemon.json', 'w') as f:
-        json.dump(lookup, f, indent=4, sort_keys=False)
-
-    if __name__ == '__main__':
-        print(tensors.shape)
-
-    print('processed pokemon tensors')
-
+def process_pokemon_tensors(path, debug=False):
+    process(path, 'pokemon', include_nothing=True, debug=debug)
 
 if __name__ == '__main__':
-    process_pokemon_tensors('../../data')
+    process_pokemon_tensors('../../data', debug=True)
