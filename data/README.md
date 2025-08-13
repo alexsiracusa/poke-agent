@@ -12,6 +12,8 @@ This folder contains the following folders:
 
 
 ## Raw Data
+> **_NOTE:_**  It might be better to scrape data using showdowns API [here](https://github.com/smogon/pokemon-showdown/blob/master/sim/DEX.md)
+
 | File                  | Description                                                   | Source                                                                                                                                    |
 |-----------------------|---------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | `pokedex.json`        | All Pokemon along with their base stats and other information | converted to json from `data/pokedex.ts` in the [`pokemon-showdown`](https://github.com/smogon/pokemon-showdown) GitHub repository        |
