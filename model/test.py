@@ -1,10 +1,11 @@
 
 
 from metamon.env import get_metamon_teams
-from metamon.interface import DefaultObservationSpace, DefaultShapedReward, DefaultActionSpace
+from metamon.interface import TeamPreviewObservationSpace, DefaultShapedReward, DefaultActionSpace
+from CustomObservationSpace import CustomDefaultObservationSpace
 
-team_set = get_metamon_teams("gen1ou", "competitive")
-obs_space = DefaultObservationSpace()
+team_set = get_metamon_teams("gen9ou", "modern_replays")
+obs_space = CustomDefaultObservationSpace()
 reward_fn = DefaultShapedReward()
 action_space = DefaultActionSpace()
 
@@ -12,7 +13,7 @@ from metamon.env import BattleAgainstBaseline
 from metamon.baselines import get_baseline
 
 env = BattleAgainstBaseline(
-    battle_format="gen1ou",
+    battle_format="gen9ou",
     observation_space=obs_space,
     action_space=action_space,
     reward_function=reward_fn,
@@ -23,5 +24,7 @@ env = BattleAgainstBaseline(
 # standard `gymnasium` environment
 obs, info = env.reset()
 next_obs, reward, terminated, truncated, info = env.step(env.action_space.sample())
+
+print(next_obs)
 
 
