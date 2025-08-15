@@ -11,6 +11,7 @@ from metamon.interface import (
 import gymnasium as gym
 import numpy as np
 import string
+import json
 
 @register_observation_space()
 class CustomDefaultObservationSpace(ObservationSpace):
@@ -111,72 +112,58 @@ class CustomDefaultObservationSpace(ObservationSpace):
         blanks = 1 + (14 if active else 0)
         return [-2.0] * blanks
 
+    def _get_move_features(self, move: UniversalMove):
+        return {
+            'name': move.name,
+            'current_pp': move.current_pp
+        }
+
+    def _get_pokemon_features(self, pokemon: UniversalPokemon, active=False):
+        return {
+            'base_species': pokemon.base_species,
+            'types': pokemon.types.split(' '),
+            'item': pokemon.item,
+            'ability': pokemon.ability,
+
+            'active': active,
+            'hp_pct': pokemon.hp_pct,
+            'lvl': pokemon.lvl,
+            'effect': pokemon.effect,
+            'status': pokemon.status,
+            'tera_type': pokemon.tera_type,
+
+            'boosts': {
+                'atk': pokemon.atk_boost,
+                'def': pokemon.def_boost,
+                'spa': pokemon.spa_boost,
+                'spd': pokemon.spd_boost,
+                'spe': pokemon.spe_boost,
+                'acc': pokemon.accuracy_boost,
+                'eva': pokemon.evasion_boost
+            },
+
+            'moves': [self._get_move_features(move) for move in pokemon.moves]
+        }
+
     def state_to_obs(self, state: UniversalState) -> dict[str, np.ndarray]:
-        player_str = ["<player>"] + self._get_pokemon_string_features(
-            state.player_active_pokemon, active=True
-        )
-        numerical = [
-            state.opponents_remaining / 6.0
-        ] + self._get_pokemon_numerical_features(
-            state.player_active_pokemon, active=True
-        )
+        return {
+            'player_active_pokemon': self._get_pokemon_features(state.player_active_pokemon, active=True),
+            'opponent_active_pokemon': self._get_pokemon_features(state.opponent_active_pokemon, active=True),
+            'available_switches': [self._get_pokemon_features(pokemon) for pokemon in state.available_switches],
 
-        # consistent move order
-        move_str, move_num = [], -1
-        for move_num, move in enumerate(
-            consistent_move_order(state.player_active_pokemon.moves)
-        ):
-            move_str += ["<move>"] + self._get_move_string_features(move, active=True)
-            numerical += self._get_move_numerical_features(move, active=True)
+            'player_prev_move': self._get_move_features(state.player_prev_move),
+            'opponent_prev_move': self._get_move_features(state.opponent_prev_move),
 
-        while move_num < 3:
-            move_str += ["<move>"] + self._get_move_pad_string(active=True)
-            numerical += self._get_move_pad_numerical(active=True)
-            move_num += 1
+            'player_conditions': state.player_conditions,  # ex: 'stealthrock'
+            'opponent_conditions': state.opponent_conditions,
+            'weather': state.weather,
 
-        # consistent switch order
-        switch_str, switch_num = [], -1
-        for switch_num, switch in enumerate(
-            consistent_pokemon_order(state.available_switches)
-        ):
-            switch_str += ["<switch>"] + self._get_pokemon_string_features(
-                switch, active=False
-            )
-            numerical += self._get_pokemon_numerical_features(switch, active=False)
-        while switch_num < 4:
-            switch_str += ["<switch>"] + self._get_pokemon_pad_string(active=False)
-            numerical += self._get_pokemon_pad_numerical(active=False)
-            switch_num += 1
+            'opponents_remaining': state.opponents_remaining,
+            'battle_field': state.battle_field,
+            'battle_lost': state.battle_lost,
+            'battle_won': state.battle_won,
+            'can_tera': state.can_tera,
+            'forced_switch': state.forced_switch,
 
-        force_switch = "<forcedswitch>" if state.forced_switch else "<anychoice>"
-        opponent_str = ["<opponent>"] + self._get_pokemon_string_features(
-            state.opponent_active_pokemon, active=True
-        )
-        numerical += self._get_pokemon_numerical_features(
-            state.opponent_active_pokemon, active=True
-        )
-        global_str = ["<conditions>"] + [
-            state.weather,
-            state.player_conditions,
-            state.opponent_conditions,
-        ]
-        prev_move_str = (
-            ["<player_prev>"]
-            + self._get_move_string_features(state.player_prev_move, active=False)
-            + ["<opp_prev>"]
-            + self._get_move_string_features(state.opponent_prev_move, active=False)
-        )
-        full_text_list = (
-            [f"<{state.format}>", force_switch]
-            + player_str
-            + move_str
-            + switch_str
-            + opponent_str
-            + global_str
-            + prev_move_str
-        )
-        # length should be 85 (type features have 2 words --> final word length of 87)
-        text = " ".join(full_text_list)
-        text = np.array(text, dtype=np.str_)
-        numbers = np.array(numerical, dtype=np.float32)
-        return {"text": text, "numbers": numbers}
+            'opponent_teampreview': state.opponent_teampreview
+        }

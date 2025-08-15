@@ -1,4 +1,4 @@
-
+import json
 
 from metamon.env import get_metamon_teams
 from metamon.interface import TeamPreviewObservationSpace, DefaultShapedReward, DefaultActionSpace
@@ -23,8 +23,8 @@ env = BattleAgainstBaseline(
 
 # standard `gymnasium` environment
 obs, info = env.reset()
-next_obs, reward, terminated, truncated, info = env.step(env.action_space.sample())
-
-print(next_obs)
+for _ in range(10):
+    next_obs, reward, terminated, truncated, info = env.step(env.action_space.sample())
+    print(json.dumps(next_obs, indent=4))
 
 
