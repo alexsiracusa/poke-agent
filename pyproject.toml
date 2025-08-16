@@ -7,7 +7,7 @@ name = "poke-agent"
 version = "0.0.0a"
 description = ""
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = "==3.12.*"
 license = {text = ""}
 authors = [
     {name = "Your Name", email = "your.email@example.com"},
@@ -58,7 +58,21 @@ metamon = [
 ]
 
 pokechamp = [
-    # Add pokechamp-specific dependencies here
+    "orjson",
+    "matplotlib",
+    "scipy",
+    "scikit-learn",
+    "torch",
+    "transformers",
+    "accelerate",
+    "wandb",
+    "evaluate",
+    "datasets",
+    # flash_attn # optional
+    "asyncio",
+    "websockets",
+    "openai",
+    "bitsandbytes",
 ]
 
 
