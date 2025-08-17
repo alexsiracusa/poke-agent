@@ -229,14 +229,14 @@ class TournamentManager:
     def _get_baseline_action(self, baseline_name: str, obs, info):
         """Get action from heuristic baseline logic"""
         # Use the action space's sample method correctly
-        return self.action_space.sample()
+        return self.action_space.gym_space.sample()
 
     def _get_pretrained_action(self, model_name: str, obs, info):
         """Get action from pretrained model"""
         # TODO: Load and run pretrained model inference
         # For now, placeholder with random action
         console.print(f"[warning]Pretrained model {model_name} not implemented, using random[/]")
-        return self.action_space.sample()
+        return self.action_space.gym_space.sample()
 
     def _gen1_boss_logic(self, obs, info):
         """Simple Gen1BossAI logic"""
