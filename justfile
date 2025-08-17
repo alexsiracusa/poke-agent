@@ -73,6 +73,9 @@ server-status:
 		echo -e "\033[31m[STOPPED]\033[0m Server is not running"; \
 	fi
 
+restart-server: stop-server start-server
+	@echo -e "\033[32m[SUCCESS]\033[0m Server restarted successfully"
+
 server-logs:
 	@echo -e "\033[34m[INFO]\033[0m Showing Pokemon Showdown server logs..."
 	@if [ -f "modules/pokemon-showdown/showdown.log" ]; then \
