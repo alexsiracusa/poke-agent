@@ -19,6 +19,12 @@ create-venv:
 	fi
 
 install-deps: check-uv create-venv
+	@echo -e "\033[34m[INFO]\033[0m Downloading submodules..."
+	@if ! _command_exists git; then \
+		echo -e "\033[31m[ERROR]\033[0m git not found. Please install git first."; \
+		exit 1; \
+	fi
+	@git submodule update --init --recursive --progress --verbose
 	@echo -e "\033[34m[INFO]\033[0m Installing Python dependencies..."
 	@uv pip install -e .[dev]
 	@echo -e "\033[32m[SUCCESS]\033[0m Python dependencies installed"
@@ -31,4 +37,9 @@ start-server:
 	@echo -e "\033[32m[SUCCESS]\033[0m Server started in new terminal window"
 
 setup: start-server install-deps
+	@echo -e "\033[34m[INFO]\033[0m Setting up environment variables..."
+	@if [ ! -f ".env" ]; then \
+		echo -e "\033[31m[ERROR]\033[0m .env file not found. Please create a .env file with your configuration."; \
+		exit 1; \
+	fi
 	@echo -e "\033[32m[SUCCESS]\033[0m Setup complete!"
