@@ -72,7 +72,7 @@ def process_final_moves(path):
                 "futuremove": get_nested(data, ['flags', 'futuremove'], 0),
             },
             'secondary': {
-                "chance": get_nested(data, ['secondary', 'chance'], 0),
+                "chance": get_nested(data, ['secondary', 'chance'], 0) / 100,
                 "status": status_to_vec(get_nested(data, ['secondary', 'status'], ""), default=True),
                 "volatileStatus": volatile_status_to_vec(get_nested(data, ['secondary', 'volatileStatus'], ""), default=True),
                 "self": {

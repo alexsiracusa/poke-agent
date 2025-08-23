@@ -108,3 +108,34 @@ Jolly Nature
 - Rock Blast
 - Tail Slap
 """
+
+team_3 = """
+Zoroark  
+Ability: Illusion  
+Tera Type: Dark  
+EVs: 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Dark Pulse  
+- Calm Mind  
+- Nasty Plot
+
+Cinccino @ Leftovers
+Ability: Skill Link
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Bullet Seed
+- Knock Off
+- Rock Blast
+- Tail Slap
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Iron Head
+- Rock Slide
+- Earthquake
+- Rapid Spin
+"""

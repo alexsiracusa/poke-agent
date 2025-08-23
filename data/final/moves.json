@@ -100,7 +100,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -229,7 +229,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -358,7 +358,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -487,7 +487,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -616,7 +616,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -745,7 +745,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -874,7 +874,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -1003,7 +1003,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -1132,7 +1132,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -1261,7 +1261,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -1390,7 +1390,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -1519,7 +1519,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -1648,7 +1648,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -1777,7 +1777,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -1906,7 +1906,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -2035,7 +2035,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -2164,7 +2164,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -2293,7 +2293,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -2422,7 +2422,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -2551,7 +2551,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -2680,7 +2680,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -2809,7 +2809,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -2938,7 +2938,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -3067,7 +3067,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -3196,7 +3196,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -3325,7 +3325,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -3454,7 +3454,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -3583,7 +3583,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -3712,7 +3712,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -3841,7 +3841,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -3970,7 +3970,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -4099,7 +4099,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -4228,7 +4228,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -4357,7 +4357,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -4486,7 +4486,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -4615,7 +4615,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -4744,7 +4744,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -4873,7 +4873,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -5002,7 +5002,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -5131,7 +5131,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 50,
+            "chance": 0.5,
             "status": [
                 0.0,
                 0.0,
@@ -5260,7 +5260,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -5389,7 +5389,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -5518,7 +5518,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -5647,7 +5647,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -5776,7 +5776,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -5905,7 +5905,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -6034,7 +6034,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -6163,7 +6163,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -6292,7 +6292,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -6421,7 +6421,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -6550,7 +6550,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -6679,7 +6679,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -6808,7 +6808,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -6937,7 +6937,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -7066,7 +7066,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -7195,7 +7195,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -7324,7 +7324,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -7453,7 +7453,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 20,
+            "chance": 0.2,
             "status": [
                 0.0,
                 0.0,
@@ -7582,7 +7582,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -7711,7 +7711,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -7840,7 +7840,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 20,
+            "chance": 0.2,
             "status": [
                 0.0,
                 0.0,
@@ -7969,7 +7969,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -8098,7 +8098,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -8227,7 +8227,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -8356,7 +8356,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -8485,7 +8485,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -8614,7 +8614,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -8743,7 +8743,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -8872,7 +8872,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -9001,7 +9001,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -9130,7 +9130,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -9259,7 +9259,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -9388,7 +9388,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -9517,7 +9517,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -9646,7 +9646,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -9775,7 +9775,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -9904,7 +9904,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -10033,7 +10033,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -10162,7 +10162,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -10291,7 +10291,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -10420,7 +10420,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -10549,7 +10549,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -10678,7 +10678,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -10807,7 +10807,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 70,
+            "chance": 0.7,
             "status": [
                 0.0,
                 0.0,
@@ -10936,7 +10936,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -11065,7 +11065,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -11194,7 +11194,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -11323,7 +11323,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -11452,7 +11452,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -11581,7 +11581,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -11710,7 +11710,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -11839,7 +11839,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -11968,7 +11968,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -12097,7 +12097,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -12226,7 +12226,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -12355,7 +12355,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -12484,7 +12484,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -12613,7 +12613,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -12742,7 +12742,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -12871,7 +12871,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -13000,7 +13000,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -13129,7 +13129,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -13258,7 +13258,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -13387,7 +13387,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -13516,7 +13516,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -13645,7 +13645,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -13774,7 +13774,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -13903,7 +13903,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -14032,7 +14032,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -14161,7 +14161,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -14290,7 +14290,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -14419,7 +14419,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -14548,7 +14548,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 20,
+            "chance": 0.2,
             "status": [
                 0.0,
                 0.0,
@@ -14677,7 +14677,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 50,
+            "chance": 0.5,
             "status": [
                 0.0,
                 0.0,
@@ -14806,7 +14806,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -14935,7 +14935,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -15064,7 +15064,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -15193,7 +15193,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 20,
+            "chance": 0.2,
             "status": [
                 0.0,
                 0.0,
@@ -15322,7 +15322,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -15451,7 +15451,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -15580,7 +15580,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -15709,7 +15709,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -15838,7 +15838,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -15967,7 +15967,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -16096,7 +16096,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -16225,7 +16225,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -16354,7 +16354,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -16483,7 +16483,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -16612,7 +16612,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -16741,7 +16741,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -16870,7 +16870,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -16999,7 +16999,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 50,
+            "chance": 0.5,
             "status": [
                 0.0,
                 0.0,
@@ -17128,7 +17128,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -17257,7 +17257,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -17386,7 +17386,7 @@
             "futuremove": 1
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -17515,7 +17515,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -17644,7 +17644,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -17773,7 +17773,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -17902,7 +17902,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -18031,7 +18031,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -18160,7 +18160,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -18289,7 +18289,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -18418,7 +18418,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -18547,7 +18547,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -18676,7 +18676,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -18805,7 +18805,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -18934,7 +18934,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -19063,7 +19063,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -19192,7 +19192,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -19321,7 +19321,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -19450,7 +19450,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 20,
+            "chance": 0.2,
             "status": [
                 0.0,
                 0.0,
@@ -19579,7 +19579,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -19708,7 +19708,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -19837,7 +19837,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -19966,7 +19966,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -20095,7 +20095,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -20224,7 +20224,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -20353,7 +20353,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -20482,7 +20482,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -20611,7 +20611,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -20740,7 +20740,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -20869,7 +20869,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -20998,7 +20998,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -21127,7 +21127,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -21256,7 +21256,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -21385,7 +21385,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -21514,7 +21514,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -21643,7 +21643,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -21772,7 +21772,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -21901,7 +21901,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -22030,7 +22030,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -22159,7 +22159,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -22288,7 +22288,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -22417,7 +22417,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -22546,7 +22546,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -22675,7 +22675,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -22804,7 +22804,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -22933,7 +22933,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -23062,7 +23062,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -23191,7 +23191,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -23320,7 +23320,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -23449,7 +23449,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -23578,7 +23578,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -23707,7 +23707,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -23836,7 +23836,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -23965,7 +23965,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -24094,7 +24094,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -24223,7 +24223,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -24352,7 +24352,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -24481,7 +24481,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -24610,7 +24610,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -24739,7 +24739,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -24868,7 +24868,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -24997,7 +24997,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -25126,7 +25126,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 50,
+            "chance": 0.5,
             "status": [
                 0.0,
                 0.0,
@@ -25255,7 +25255,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 20,
+            "chance": 0.2,
             "status": [
                 0.0,
                 0.0,
@@ -25384,7 +25384,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -25513,7 +25513,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -25642,7 +25642,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -25771,7 +25771,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -25900,7 +25900,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -26029,7 +26029,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -26158,7 +26158,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -26287,7 +26287,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -26416,7 +26416,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -26545,7 +26545,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -26674,7 +26674,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -26803,7 +26803,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -26932,7 +26932,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -27061,7 +27061,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -27190,7 +27190,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -27319,7 +27319,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -27448,7 +27448,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -27577,7 +27577,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -27706,7 +27706,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -27835,7 +27835,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -27964,7 +27964,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -28093,7 +28093,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -28222,7 +28222,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -28351,7 +28351,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -28480,7 +28480,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -28609,7 +28609,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -28738,7 +28738,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -28867,7 +28867,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -28996,7 +28996,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -29125,7 +29125,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -29254,7 +29254,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -29383,7 +29383,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -29512,7 +29512,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -29641,7 +29641,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -29770,7 +29770,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -29899,7 +29899,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -30028,7 +30028,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -30157,7 +30157,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -30286,7 +30286,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -30415,7 +30415,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -30544,7 +30544,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -30673,7 +30673,7 @@
             "futuremove": 1
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -30802,7 +30802,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -30931,7 +30931,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -31060,7 +31060,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -31189,7 +31189,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -31318,7 +31318,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -31447,7 +31447,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -31576,7 +31576,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -31705,7 +31705,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -31834,7 +31834,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -31963,7 +31963,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -32092,7 +32092,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -32221,7 +32221,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -32350,7 +32350,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -32479,7 +32479,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -32608,7 +32608,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -32737,7 +32737,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -32866,7 +32866,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -32995,7 +32995,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -33124,7 +33124,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -33253,7 +33253,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -33382,7 +33382,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -33511,7 +33511,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -33640,7 +33640,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -33769,7 +33769,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -33898,7 +33898,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -34027,7 +34027,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -34156,7 +34156,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -34285,7 +34285,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -34414,7 +34414,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -34543,7 +34543,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -34672,7 +34672,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -34801,7 +34801,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -34930,7 +34930,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -35059,7 +35059,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -35188,7 +35188,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -35317,7 +35317,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -35446,7 +35446,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -35575,7 +35575,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -35704,7 +35704,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -35833,7 +35833,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -35962,7 +35962,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -36091,7 +36091,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -36220,7 +36220,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -36349,7 +36349,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -36478,7 +36478,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -36607,7 +36607,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -36736,7 +36736,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -36865,7 +36865,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -36994,7 +36994,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -37123,7 +37123,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -37252,7 +37252,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -37381,7 +37381,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -37510,7 +37510,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -37639,7 +37639,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -37768,7 +37768,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -37897,7 +37897,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -38026,7 +38026,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -38155,7 +38155,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -38284,7 +38284,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -38413,7 +38413,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -38542,7 +38542,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -38671,7 +38671,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -38800,7 +38800,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -38929,7 +38929,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -39058,7 +39058,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -39187,7 +39187,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -39316,7 +39316,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -39445,7 +39445,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -39574,7 +39574,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -39703,7 +39703,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -39832,7 +39832,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -39961,7 +39961,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -40090,7 +40090,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -40219,7 +40219,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -40348,7 +40348,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -40477,7 +40477,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -40606,7 +40606,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -40735,7 +40735,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -40864,7 +40864,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -40993,7 +40993,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -41122,7 +41122,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -41251,7 +41251,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -41380,7 +41380,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -41509,7 +41509,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -41638,7 +41638,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -41767,7 +41767,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -41896,7 +41896,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -42025,7 +42025,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -42154,7 +42154,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -42283,7 +42283,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -42412,7 +42412,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -42541,7 +42541,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -42670,7 +42670,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -42799,7 +42799,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -42928,7 +42928,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -43057,7 +43057,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -43186,7 +43186,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 20,
+            "chance": 0.2,
             "status": [
                 0.0,
                 0.0,
@@ -43315,7 +43315,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -43444,7 +43444,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -43573,7 +43573,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -43702,7 +43702,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -43831,7 +43831,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -43960,7 +43960,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -44089,7 +44089,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -44218,7 +44218,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 50,
+            "chance": 0.5,
             "status": [
                 0.0,
                 0.0,
@@ -44347,7 +44347,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -44476,7 +44476,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -44605,7 +44605,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -44734,7 +44734,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -44863,7 +44863,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -44992,7 +44992,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -45121,7 +45121,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -45250,7 +45250,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -45379,7 +45379,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 50,
+            "chance": 0.5,
             "status": [
                 1.0,
                 0.0,
@@ -45508,7 +45508,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 20,
+            "chance": 0.2,
             "status": [
                 0.0,
                 0.0,
@@ -45637,7 +45637,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -45766,7 +45766,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -45895,7 +45895,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -46024,7 +46024,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -46153,7 +46153,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -46282,7 +46282,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -46411,7 +46411,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -46540,7 +46540,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -46669,7 +46669,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -46798,7 +46798,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -46927,7 +46927,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 20,
+            "chance": 0.2,
             "status": [
                 0.0,
                 0.0,
@@ -47056,7 +47056,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -47185,7 +47185,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -47314,7 +47314,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -47443,7 +47443,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -47572,7 +47572,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -47701,7 +47701,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -47830,7 +47830,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -47959,7 +47959,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 50,
+            "chance": 0.5,
             "status": [
                 0.0,
                 0.0,
@@ -48088,7 +48088,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -48217,7 +48217,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -48346,7 +48346,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -48475,7 +48475,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -48604,7 +48604,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -48733,7 +48733,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -48862,7 +48862,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -48991,7 +48991,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -49120,7 +49120,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -49249,7 +49249,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -49378,7 +49378,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -49507,7 +49507,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -49636,7 +49636,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -49765,7 +49765,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -49894,7 +49894,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 40,
+            "chance": 0.4,
             "status": [
                 0.0,
                 0.0,
@@ -50023,7 +50023,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -50152,7 +50152,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -50281,7 +50281,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -50410,7 +50410,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -50539,7 +50539,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -50668,7 +50668,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -50797,7 +50797,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -50926,7 +50926,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -51055,7 +51055,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -51184,7 +51184,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -51313,7 +51313,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -51442,7 +51442,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -51571,7 +51571,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -51700,7 +51700,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -51829,7 +51829,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -51958,7 +51958,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -52087,7 +52087,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -52216,7 +52216,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -52345,7 +52345,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -52474,7 +52474,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -52603,7 +52603,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -52732,7 +52732,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -52861,7 +52861,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -52990,7 +52990,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -53119,7 +53119,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -53248,7 +53248,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 50,
+            "chance": 0.5,
             "status": [
                 1.0,
                 0.0,
@@ -53377,7 +53377,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -53506,7 +53506,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -53635,7 +53635,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -53764,7 +53764,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -53893,7 +53893,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -54022,7 +54022,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -54151,7 +54151,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -54280,7 +54280,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -54409,7 +54409,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -54538,7 +54538,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -54667,7 +54667,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -54796,7 +54796,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -54925,7 +54925,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -55054,7 +55054,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -55183,7 +55183,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -55312,7 +55312,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -55441,7 +55441,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -55570,7 +55570,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -55699,7 +55699,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -55828,7 +55828,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -55957,7 +55957,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -56086,7 +56086,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -56215,7 +56215,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -56344,7 +56344,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -56473,7 +56473,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -56602,7 +56602,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -56731,7 +56731,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -56860,7 +56860,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -56989,7 +56989,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -57118,7 +57118,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -57247,7 +57247,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -57376,7 +57376,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -57505,7 +57505,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -57634,7 +57634,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -57763,7 +57763,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -57892,7 +57892,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -58021,7 +58021,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -58150,7 +58150,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -58279,7 +58279,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -58408,7 +58408,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -58537,7 +58537,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -58666,7 +58666,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -58795,7 +58795,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -58924,7 +58924,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -59053,7 +59053,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -59182,7 +59182,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 50,
+            "chance": 0.5,
             "status": [
                 0.0,
                 0.0,
@@ -59311,7 +59311,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -59440,7 +59440,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -59569,7 +59569,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -59698,7 +59698,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -59827,7 +59827,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 1.0,
@@ -59956,7 +59956,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -60085,7 +60085,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -60214,7 +60214,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -60343,7 +60343,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -60472,7 +60472,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -60601,7 +60601,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -60730,7 +60730,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -60859,7 +60859,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -60988,7 +60988,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -61117,7 +61117,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -61246,7 +61246,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -61375,7 +61375,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 50,
+            "chance": 0.5,
             "status": [
                 0.0,
                 0.0,
@@ -61504,7 +61504,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -61633,7 +61633,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -61762,7 +61762,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -61891,7 +61891,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -62020,7 +62020,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -62149,7 +62149,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -62278,7 +62278,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -62407,7 +62407,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -62536,7 +62536,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 50,
+            "chance": 0.5,
             "status": [
                 0.0,
                 0.0,
@@ -62665,7 +62665,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -62794,7 +62794,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -62923,7 +62923,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -63052,7 +63052,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -63181,7 +63181,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 20,
+            "chance": 0.2,
             "status": [
                 0.0,
                 0.0,
@@ -63310,7 +63310,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -63439,7 +63439,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -63568,7 +63568,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -63697,7 +63697,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -63826,7 +63826,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -63955,7 +63955,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -64084,7 +64084,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -64213,7 +64213,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -64342,7 +64342,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -64471,7 +64471,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -64600,7 +64600,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 40,
+            "chance": 0.4,
             "status": [
                 0.0,
                 0.0,
@@ -64729,7 +64729,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -64858,7 +64858,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -64987,7 +64987,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 20,
+            "chance": 0.2,
             "status": [
                 0.0,
                 0.0,
@@ -65116,7 +65116,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -65245,7 +65245,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -65374,7 +65374,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -65503,7 +65503,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -65632,7 +65632,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -65761,7 +65761,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -65890,7 +65890,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 20,
+            "chance": 0.2,
             "status": [
                 0.0,
                 0.0,
@@ -66019,7 +66019,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -66148,7 +66148,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -66277,7 +66277,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -66406,7 +66406,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -66535,7 +66535,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -66664,7 +66664,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -66793,7 +66793,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -66922,7 +66922,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -67051,7 +67051,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -67180,7 +67180,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -67309,7 +67309,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -67438,7 +67438,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -67567,7 +67567,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -67696,7 +67696,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -67825,7 +67825,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -67954,7 +67954,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -68083,7 +68083,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -68212,7 +68212,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -68341,7 +68341,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -68470,7 +68470,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -68599,7 +68599,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -68728,7 +68728,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -68857,7 +68857,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 40,
+            "chance": 0.4,
             "status": [
                 0.0,
                 0.0,
@@ -68986,7 +68986,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -69115,7 +69115,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -69244,7 +69244,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -69373,7 +69373,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -69502,7 +69502,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -69631,7 +69631,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -69760,7 +69760,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -69889,7 +69889,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -70018,7 +70018,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -70147,7 +70147,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -70276,7 +70276,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -70405,7 +70405,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -70534,7 +70534,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -70663,7 +70663,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -70792,7 +70792,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -70921,7 +70921,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -71050,7 +71050,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -71179,7 +71179,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -71308,7 +71308,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -71437,7 +71437,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -71566,7 +71566,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -71695,7 +71695,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -71824,7 +71824,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -71953,7 +71953,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -72082,7 +72082,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -72211,7 +72211,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -72340,7 +72340,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -72469,7 +72469,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -72598,7 +72598,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -72727,7 +72727,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -72856,7 +72856,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -72985,7 +72985,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -73114,7 +73114,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -73243,7 +73243,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -73372,7 +73372,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -73501,7 +73501,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -73630,7 +73630,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 20,
+            "chance": 0.2,
             "status": [
                 0.0,
                 0.0,
@@ -73759,7 +73759,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -73888,7 +73888,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -74017,7 +74017,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -74146,7 +74146,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -74275,7 +74275,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -74404,7 +74404,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -74533,7 +74533,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -74662,7 +74662,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -74791,7 +74791,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -74920,7 +74920,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -75049,7 +75049,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -75178,7 +75178,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -75307,7 +75307,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -75436,7 +75436,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -75565,7 +75565,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -75694,7 +75694,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -75823,7 +75823,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -75952,7 +75952,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -76081,7 +76081,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -76210,7 +76210,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -76339,7 +76339,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -76468,7 +76468,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -76597,7 +76597,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -76726,7 +76726,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -76855,7 +76855,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -76984,7 +76984,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -77113,7 +77113,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -77242,7 +77242,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -77371,7 +77371,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -77500,7 +77500,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -77629,7 +77629,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -77758,7 +77758,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -77887,7 +77887,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -78016,7 +78016,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -78145,7 +78145,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -78274,7 +78274,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -78403,7 +78403,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -78532,7 +78532,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -78661,7 +78661,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -78790,7 +78790,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -78919,7 +78919,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -79048,7 +79048,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -79177,7 +79177,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -79306,7 +79306,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -79435,7 +79435,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -79564,7 +79564,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -79693,7 +79693,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -79822,7 +79822,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,
@@ -79951,7 +79951,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -80080,7 +80080,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -80209,7 +80209,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -80338,7 +80338,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -80467,7 +80467,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -80596,7 +80596,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -80725,7 +80725,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -80854,7 +80854,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -80983,7 +80983,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -81112,7 +81112,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -81241,7 +81241,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -81370,7 +81370,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -81499,7 +81499,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -81628,7 +81628,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -81757,7 +81757,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -81886,7 +81886,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -82015,7 +82015,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -82144,7 +82144,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -82273,7 +82273,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 20,
+            "chance": 0.2,
             "status": [
                 0.0,
                 0.0,
@@ -82402,7 +82402,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -82531,7 +82531,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -82660,7 +82660,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -82789,7 +82789,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -82918,7 +82918,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -83047,7 +83047,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -83176,7 +83176,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -83305,7 +83305,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -83434,7 +83434,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 20,
+            "chance": 0.2,
             "status": [
                 0.0,
                 0.0,
@@ -83563,7 +83563,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -83692,7 +83692,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -83821,7 +83821,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -83950,7 +83950,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -84079,7 +84079,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -84208,7 +84208,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -84337,7 +84337,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -84466,7 +84466,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -84595,7 +84595,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -84724,7 +84724,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 10,
+            "chance": 0.1,
             "status": [
                 0.0,
                 0.0,
@@ -84853,7 +84853,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 20,
+            "chance": 0.2,
             "status": [
                 0.0,
                 0.0,
@@ -84982,7 +84982,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -85111,7 +85111,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -85240,7 +85240,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 20,
+            "chance": 0.2,
             "status": [
                 0.0,
                 0.0,
@@ -85369,7 +85369,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -85498,7 +85498,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -85627,7 +85627,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -85756,7 +85756,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -85885,7 +85885,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -86014,7 +86014,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -86143,7 +86143,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -86272,7 +86272,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -86401,7 +86401,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 20,
+            "chance": 0.2,
             "status": [
                 0.0,
                 0.0,
@@ -86530,7 +86530,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -86659,7 +86659,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -86788,7 +86788,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -86917,7 +86917,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -87046,7 +87046,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -87175,7 +87175,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -87304,7 +87304,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -87433,7 +87433,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -87562,7 +87562,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -87691,7 +87691,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -87820,7 +87820,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -87949,7 +87949,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 0,
+            "chance": 0.0,
             "status": [
                 0.0,
                 0.0,
@@ -88078,7 +88078,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 100,
+            "chance": 1.0,
             "status": [
                 0.0,
                 0.0,
@@ -88207,7 +88207,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 20,
+            "chance": 0.2,
             "status": [
                 0.0,
                 0.0,
@@ -88336,7 +88336,7 @@
             "futuremove": 0
         },
         "secondary": {
-            "chance": 30,
+            "chance": 0.3,
             "status": [
                 0.0,
                 0.0,

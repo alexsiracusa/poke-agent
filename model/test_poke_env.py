@@ -5,16 +5,18 @@ from poke_env.player import Player
 from poke_env.data import GenData
 from poke_env.battle import Battle
 
-from teams import team_1, team_2
+from teams import team_1, team_2, team_3
 
 
 class MaxDamagePlayer(Player):
     def choose_move(self, battle: Battle):
-        for name, pokemon in battle.opponent_team.items():
-            print(pokemon.moves)
-        print("")
+        print(battle.opponent_active_pokemon)
 
-        print(battle.available_moves)
+        # for name, pokemon in battle.opponent_team.items():
+        #     print(pokemon.moves)
+        # print("")
+        #
+        # print(battle.available_moves)
 
         if battle.available_moves:
             best_move = max(battle.available_moves, key=lambda move: move.base_power)
@@ -30,7 +32,7 @@ class MaxDamagePlayer(Player):
 player = MaxDamagePlayer(battle_format="gen9ou", team=team_1)
 random_player = RandomPlayer(battle_format="gen9ou", team=team_2)
 
-asyncio.run(player.battle_against(random_player, n_battles=10))
+asyncio.run(player.battle_against(random_player, n_battles=1))
 
 print(f"Max damage player won {player.n_won_battles} / 10 battles")
 
