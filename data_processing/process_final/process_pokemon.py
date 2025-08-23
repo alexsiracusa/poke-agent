@@ -20,7 +20,9 @@ def process_final_pokemon(path):
         ability_lookup = json.load(f, object_pairs_hook=collections.OrderedDict)
 
     processed_pokemon = {}
-    embedding_features = {}
+    embedding_features = {
+        'nothing': {'abilities': [0] * 3, 'items': [0] * TOP_N_ITEMS, 'moves': [0] * TOP_N_MOVES}
+    }
 
     for key, data in pokemon.items():
         pokemon = {

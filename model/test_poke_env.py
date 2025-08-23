@@ -5,18 +5,16 @@ from poke_env.player import Player
 from poke_env.data import GenData
 from poke_env.battle import Battle
 
+from timestep_encoder import TimestepEncoder
+
 from teams import team_1, team_2, team_3
 
 
+encoder = TimestepEncoder('../data')
+
 class MaxDamagePlayer(Player):
     def choose_move(self, battle: Battle):
-        print(battle.opponent_active_pokemon)
-
-        # for name, pokemon in battle.opponent_team.items():
-        #     print(pokemon.moves)
-        # print("")
-        #
-        # print(battle.available_moves)
+        encoder(battle)
 
         if battle.available_moves:
             best_move = max(battle.available_moves, key=lambda move: move.base_power)
