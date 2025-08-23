@@ -1,0 +1,1 @@
+Does all data processing for the `data` folder.  Run `process.py` to recreate everything from the original raw files in `data/raw`.
