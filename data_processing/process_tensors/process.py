@@ -13,6 +13,7 @@ def process(path, name, include_nothing=False, debug=False):
 
     if include_nothing:
         lookup['nothing'] = 0
+        lookup['unknown'] = 0
 
     for num, (key, data) in enumerate(jsons.items()):
         lookup[key] = num + int(include_nothing)
@@ -23,7 +24,7 @@ def process(path, name, include_nothing=False, debug=False):
     tensors = torch.stack(tensors, dim=0)
 
     if include_nothing:
-        zero_row = torch.zeros(1, tensors.size(1))
+        zero_row = torch.zeros(2, tensors.size(1))
         tensors = torch.cat((zero_row, tensors), dim=0)
 
     torch.save(tensors, f'{path}/tensors/{name}.pt')

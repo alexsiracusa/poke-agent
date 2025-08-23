@@ -139,3 +139,19 @@ Adamant Nature
 - Earthquake
 - Rapid Spin
 """
+
+team_4 = """
+Venusaur  
+Ability: Overgrow  
+Tera Type: Grass  
+EVs: 252 HP  
+IVs: 0 Atk  
+- Solar Beam
+
+Coalossal  
+Ability: Steam Engine  
+Tera Type: Rock  
+EVs: 252 HP  
+IVs: 0 Atk  
+- Meteor Beam
+"""

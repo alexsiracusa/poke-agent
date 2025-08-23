@@ -1,5 +1,6 @@
 {
     "nothing": 0,
+    "unknown": 0,
     "absorb": 1,
     "accelerock": 2,
     "acid": 3,

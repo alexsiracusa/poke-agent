@@ -7,6 +7,6 @@ def flatten_list(lst):
     for x in lst:
         if isinstance(x, list):  # if it's a list, extend
             flat.extend(x)
-        else:  # assume it's a string
+        else:
             flat.append(x)
     return flat
