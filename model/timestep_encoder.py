@@ -59,33 +59,34 @@ class TimestepEncoder(nn.Module):
                 pad(poke.types, 3, None)
             ]),
             gender_to_vec(poke.gender),           # 3
-            poke.level,                           # 1
-            poke.max_hp,                          # 1
+            poke.level / 100,                     # 1
+            poke.current_hp / 500,                # 1
+            poke.max_hp / 500,                    # 1
+            poke.current_hp_fraction,             # 1
             poke.active,                          # 1
-            poke.boosts['accuracy'],              # 1
-            poke.boosts['atk'],                   # 1
-            poke.boosts['def'],                   # 1
-            poke.boosts['evasion'],               # 1
-            poke.boosts['spa'],                   # 1
-            poke.boosts['spd'],                   # 1
-            poke.boosts['spe'],                   # 1
-            poke.current_hp,                      # 1
+            poke.boosts['accuracy'] / 6,          # 1
+            poke.boosts['atk'] / 6,               # 1
+            poke.boosts['def'] / 6,               # 1
+            poke.boosts['evasion'] / 6,           # 1
+            poke.boosts['spa'] / 6,               # 1
+            poke.boosts['spd'] / 6,               # 1
+            poke.boosts['spe'] / 6,               # 1
             effects_to_vec(poke.effects),         # 224
-            int(poke.first_turn),                 # 1
-            int(poke.is_terastallized),           # 1
+            poke.first_turn,                      # 1
+            poke.is_terastallized,                # 1
             pokemon_type_to_vec(poke.tera_type),  # 20
-            int(poke.must_recharge),              # 1
-            int(poke.protect_counter),            # 1
-            int(poke.revealed),                   # 1
-            poke.stats['hp'] or -1,               # 1
-            poke.stats['atk'] or -1,              # 1
-            poke.stats['def'] or -1,              # 1
-            poke.stats['spa'] or -1,              # 1
-            poke.stats['spd'] or -1,              # 1
-            poke.stats['spe'] or -1,              # 1
+            poke.must_recharge,                   # 1
+            poke.protect_counter,                 # 1
+            poke.revealed,                        # 1
+            (poke.stats['hp'] or -500) / 500,     # 1
+            (poke.stats['atk'] or -500) / 500,    # 1
+            (poke.stats['def'] or -500) / 500,    # 1
+            (poke.stats['spa'] or -500) / 500,    # 1
+            (poke.stats['spd'] or -500) / 500,    # 1
+            (poke.stats['spe'] or -500) / 500,    # 1
             status_to_vec(poke.status),           # 7
             poke.status_counter,                  # 1
-        ])) if poke is not None else torch.zeros(337) for poke in pokemon])
+        ])) if poke is not None else torch.zeros(338) for poke in pokemon])
 
         abilities = self.ability_embeddings(torch.tensor([
             self.lookup.abilities[poke.ability or 'unknown' if poke else 'nothing'] for poke in pokemon
@@ -140,6 +141,20 @@ class TimestepEncoder(nn.Module):
         # ----------------
         # BATTLE CONDITION FEATURES
         # ----------------
+
+        # self._weather: Dict[Weather, int] = {}
+        # self._fields: Dict[Field, int] = {}  # set()
+        # self._opponent_side_conditions: Dict[SideCondition, int] = {}  # set()
+        # self._side_conditions: Dict[SideCondition, int] = {}  # set()
+        # self._reviving: bool = False
+        # self._opponent_used_mega_evolve = False
+        # self._opponent_used_z_move = False
+        # self._opponent_used_dynamax = False
+        # self._opponent_used_tera = False
+        # self._used_mega_evolve = False
+        # self._used_z_move = False
+        # self._used_dynamax = False
+        # self._used_tera = False
 
 
 

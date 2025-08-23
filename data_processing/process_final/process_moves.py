@@ -22,16 +22,16 @@ def process_final_moves(path):
             'basePower': data['basePower'] / 100,
             'category': move_category_to_vec(data['category']),
             'pp': data['pp'] / 16,
-            'priority': data['priority'],
+            'priority': data['priority'] / 7,
             'target': move_target_to_vec(data['target']),
             'critRatio': data['critRatio'] if 'critRatio' in data else 0,
             'multihit': data['multihit'] if type(data['multihit']) == list else [data['multihit'], data['multihit']],
             'boosts': {
-                "atk": get_nested(data, ['boosts', 'atk'], 0),
-                "def": get_nested(data, ['boosts', 'def'], 0),
-                "spa": get_nested(data, ['boosts', 'spa'], 0),
-                "spd": get_nested(data, ['boosts', 'spd'], 0),
-                "spe": get_nested(data, ['boosts', 'spe'], 0)
+                "atk": get_nested(data, ['boosts', 'atk'], 0) / 6,
+                "def": get_nested(data, ['boosts', 'def'], 0) / 6,
+                "spa": get_nested(data, ['boosts', 'spa'], 0) / 6,
+                "spd": get_nested(data, ['boosts', 'spd'], 0) / 6,
+                "spe": get_nested(data, ['boosts', 'spe'], 0) / 6
             },
             'flags': {
                 "heal": get_nested(data, ['flags', 'heal'], 0),
@@ -77,11 +77,11 @@ def process_final_moves(path):
                 "volatileStatus": volatile_status_to_vec(get_nested(data, ['secondary', 'volatileStatus'], ""), default=True),
                 "self": {
                     "boosts": {
-                        "atk": get_nested(data, ['secondary', 'self', 'boosts', 'atk'], 0),
-                        "def": get_nested(data, ['secondary', 'self', 'boosts', 'def'], 0),
-                        "spa": get_nested(data, ['secondary', 'self', 'boosts', 'spa'], 0),
-                        "spd": get_nested(data, ['secondary', 'self', 'boosts', 'spd'], 0),
-                        "spe": get_nested(data, ['secondary', 'self', 'boosts', 'spe'], 0)
+                        "atk": get_nested(data, ['secondary', 'self', 'boosts', 'atk'], 0) / 6,
+                        "def": get_nested(data, ['secondary', 'self', 'boosts', 'def'], 0) / 6,
+                        "spa": get_nested(data, ['secondary', 'self', 'boosts', 'spa'], 0) / 6,
+                        "spd": get_nested(data, ['secondary', 'self', 'boosts', 'spd'], 0) / 6,
+                        "spe": get_nested(data, ['secondary', 'self', 'boosts', 'spe'], 0) / 6
                     }
                 }
             }

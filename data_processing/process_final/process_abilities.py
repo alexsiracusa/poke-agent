@@ -10,7 +10,7 @@ def process_final_abilities(path):
 
     for key, data in moves.items():
         ability = {
-            "rating": data['rating'],
+            "rating": data['rating'] / 5,
         }
         processed_abilities[key] = ability
 
