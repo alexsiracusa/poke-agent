@@ -29,7 +29,8 @@ dependencies = [
     "requests>=2.25.0",
     "pathlib-mate",
     "tqdm>=4.60.0",
-    "stable_baselines3"
+    "stable_baselines3",
+    "poke-env"
 ]
 
 [tool.setuptools.packages.find]
@@ -53,8 +54,8 @@ metamon = [
     "termcolor",
     "huggingface_hub",
     "datasets",
-    "poke-env @ git+https://github.com/UT-Austin-RPL/poke-env.git",
-    "amago @ git+https://github.com/UT-Austin-RPL/amago.git"
+#    "poke-env @ git+https://github.com/UT-Austin-RPL/poke-env.git",
+#    "amago @ git+https://github.com/UT-Austin-RPL/amago.git"
 ]
 
 pokechamp = [
