@@ -1,13 +1,11 @@
 team_1 = """
-Goodra (M) @ Assault Vest
-Ability: Sap Sipper
-EVs: 248 HP / 252 SpA / 8 Spe
-Modest Nature
-IVs: 0 Atk
-- Dragon Pulse
-- Flamethrower
-- Sludge Wave
-- Thunderbolt
+Deoxys-Speed @ Focus Sash
+Ability: Pressure  
+Tera Type: Psychic  
+EVs: 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Spikes
 
 Dragonite @ Focus Sash
 Ability: Inner Focus
@@ -15,14 +13,15 @@ EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature
 - Roar
 
-Toxtricity (M) @ Throat Spray
-Ability: Punk Rock
-EVs: 4 Atk / 252 SpA / 252 Spe
-Rash Nature
-- Overdrive
-- Boomburst
-- Shift Gear
-- Fire Punch
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Tera Type: Grass  
+EVs: 252 HP / 252 Atk  
+Adamant Nature  
+- Grassy Glide  
+- Wood Hammer  
+- Knock Off  
+- Fake Out
 
 Cloyster @ Leftovers
 Ability: Skill Link
@@ -42,15 +41,12 @@ Impish Nature
 - Roost
 - U-turn
 
-Galvantula @ Focus Sash
-Ability: Compound Eyes
-EVs: 252 SpA / 4 SpD / 252 Spe
-Timid Nature
-IVs: 0 Atk
-- Sticky Web
-- Thunder Wave
-- Thunder
-- Energy Ball
+Ninetales-Alola @ Focus Sash  
+Ability: Snow Warning  
+Tera Type: Ice  
+EVs: 252 Spe  
+IVs: 0 Atk  
+- Aurora Veil
 """
 
 
@@ -72,23 +68,23 @@ EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature
 - Roar
 
-Cloyster @ Leftovers
-Ability: Skill Link
-EVs: 252 Atk / 4 SpD / 252 Spe
-Adamant Nature
-- Icicle Spear
-- Rock Blast
-- Ice Shard
-- Shell Smash
+Deoxys-Speed @ Focus Sash
+Ability: Pressure  
+Tera Type: Psychic  
+EVs: 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Spikes
 
-Sandaconda @ Focus Sash
-Ability: Sand Spit
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Stealth Rock
-- Glare
-- Earthquake
-- Rock Tomb
+Tyranitar @ Assault Vest  
+Ability: Sand Stream  
+Tera Type: Rock  
+EVs: 252 HP / 252 Atk  
+Adamant Nature  
+- Rock Slide  
+- Knock Off  
+- Earthquake  
+- Iron Head
 
 Excadrill @ Focus Sash
 Ability: Sand Rush

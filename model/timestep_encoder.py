@@ -6,7 +6,7 @@ from poke_env.battle import Battle, Pokemon, PokemonType
 from util import pad, flatten_list
 from feature_lookup import FeatureLookup
 from hybrid_embedding import HybridEmbedding
-from to_vec import gender_to_vec, effects_to_vec, pokemon_type_to_vec, status_to_vec
+from to_vec import gender_to_vec, effects_to_vec, pokemon_type_to_vec, status_to_vec, weathers_to_vec, fields_to_vec, side_conditions_to_vec
 
 
 NUM_ABILITIES = 313
@@ -38,7 +38,7 @@ class TimestepEncoder(nn.Module):
         self.move_embeddings = HybridEmbedding(NUM_MOVES, STATIC_FEATURES.MOVES, LEARNABLE_FEATURES.MOVES, self.lookup.move_tensors)
         self.pokemon_embeddings = HybridEmbedding(NUM_POKEMON, STATIC_FEATURES.POKEMON, LEARNABLE_FEATURES.POKEMON, self.lookup.pokemon_tensors)
 
-    def _encode_pokemon_species(self, pokemon : List[str]) -> torch.tensor:
+    def _encode_pokemon_species(self, pokemon : List[str]) -> torch.Tensor:
         pokemon_ids = torch.tensor([self.lookup.pokemon[poke] for poke in pokemon])
         feature_tensor = self.pokemon_embeddings(pokemon_ids)
 
@@ -51,7 +51,7 @@ class TimestepEncoder(nn.Module):
 
         return torch.cat([feature_tensor, embeddings_tensor], dim=1)
 
-    def _encode_pokemon(self, pokemon : List[Optional[Pokemon]]) -> torch.tensor:
+    def _encode_pokemon(self, pokemon : List[Optional[Pokemon]]) -> torch.Tensor:
         features = torch.stack([torch.tensor(flatten_list([
             flatten_list([                        # 60
                 pokemon_type_to_vec(type)
@@ -92,6 +92,7 @@ class TimestepEncoder(nn.Module):
             self.lookup.abilities[poke.ability or 'unknown' if poke else 'nothing'] for poke in pokemon
         ]))
 
+        # TODO - missing remaining move pp
         moves = torch.stack([
             self.move_embeddings(torch.tensor([
                 self.lookup.moves[move] for move in
@@ -115,6 +116,19 @@ class TimestepEncoder(nn.Module):
 
         return torch.cat([features, abilities, moves, items, preparing_moves], dim=1)
 
+    def _encode_battle_state(self, battle: Battle) -> torch.Tensor:
+        tensor = torch.tensor(flatten_list([
+            battle.turn,                                                           # 1
+            weathers_to_vec(battle.weather, battle.turn),                          # 9
+            fields_to_vec(battle.fields, battle.turn),                             # 13
+            side_conditions_to_vec(battle.opponent_side_conditions, battle.turn),  # 24
+            side_conditions_to_vec(battle.side_conditions, battle.turn),           # 24
+            battle.reviving,                                                       # 1
+            battle.used_tera,                                                      # 1
+            battle.opponent_used_tera,                                             # 1
+        ]))
+
+        return tensor
 
     def forward(self, battle: Battle):
         # ----------------
@@ -141,24 +155,9 @@ class TimestepEncoder(nn.Module):
         # ----------------
         # BATTLE CONDITION FEATURES
         # ----------------
+        battle_state = self._encode_battle_state(battle)
 
-        # self._weather: Dict[Weather, int] = {}
-        # self._fields: Dict[Field, int] = {}  # set()
-        # self._opponent_side_conditions: Dict[SideCondition, int] = {}  # set()
-        # self._side_conditions: Dict[SideCondition, int] = {}  # set()
-        # self._reviving: bool = False
-        # self._opponent_used_mega_evolve = False
-        # self._opponent_used_z_move = False
-        # self._opponent_used_dynamax = False
-        # self._opponent_used_tera = False
-        # self._used_mega_evolve = False
-        # self._used_z_move = False
-        # self._used_dynamax = False
-        # self._used_tera = False
-
-
-
-        return pokemon_features.flatten()
+        return torch.cat([pokemon_features.flatten(), battle_state])
 
 
 

@@ -2,7 +2,6 @@ import asyncio
 
 from poke_env import RandomPlayer
 from poke_env.player import Player
-from poke_env.data import GenData
 from poke_env.battle import Battle
 
 from timestep_encoder import TimestepEncoder
