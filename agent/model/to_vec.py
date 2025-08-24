@@ -1,7 +1,7 @@
 import numpy as np
 from enum import Enum
 from typing import Dict
-from poke_env.battle import PokemonGender, Effect, PokemonType, Status, Weather, Field, SideCondition
+from poke_env.environment import PokemonGender, PokemonType, Effect, Status, Weather, Field, SideCondition
 
 
 def enum_to_one_hot(enum_cls, member):
@@ -11,16 +11,16 @@ def enum_to_one_hot(enum_cls, member):
     if member is not None:
         idx = members.index(member)
         one_hot[idx] = 1
-    return one_hot
+    return one_hot.tolist()
 
 def gender_to_vec(gender: PokemonGender):
-    return list(enum_to_one_hot(PokemonGender, gender))
+    return enum_to_one_hot(PokemonGender, gender)
 
 def pokemon_type_to_vec(type: PokemonType):
-    return list(enum_to_one_hot(PokemonType, type))
+    return enum_to_one_hot(PokemonType, type)
 
 def status_to_vec(status: Status):
-    return list(enum_to_one_hot(Status, status))
+    return enum_to_one_hot(Status, status)
 
 
 # EFFECT
@@ -29,7 +29,7 @@ def status_to_vec(status: Status):
 effect_max_value = []
 
 def effect_to_vec(effect: Effect):
-    return list(enum_to_one_hot(Effect, effect))
+    return enum_to_one_hot(Effect, effect)
 
 def effects_to_vec(effects: Dict[Effect, int]):
     vector = np.zeros(len(Effect), dtype=int)
@@ -37,7 +37,7 @@ def effects_to_vec(effects: Dict[Effect, int]):
     for effect, value in effects.items():
         vector += np.array(effect_to_vec(effect)) * value
 
-    return list(vector)
+    return vector.tolist()
 
 
 # WEATHER
@@ -65,7 +65,7 @@ weather_max_values = [
 #               self._weather = {Weather.from_showdown_message(weather): self.turn}
 
 def weather_to_vec(weather: Weather):
-    return list(enum_to_one_hot(Weather, weather))
+    return enum_to_one_hot(Weather, weather)
 
 def weathers_to_vec(weathers: Dict[Weather, int], turn: int):
     vector = np.zeros(len(Weather), dtype=int)
@@ -77,7 +77,7 @@ def weathers_to_vec(weathers: Dict[Weather, int], turn: int):
     for value, max_value in zip(vector, weather_max_values):
         features.append(np.eye(max_value + 1)[value])
 
-    return list(np.concatenate(features, axis=0))
+    return np.concatenate(features, axis=0).tolist()
 
 
 # FIELDS
@@ -98,7 +98,7 @@ field_max_values = [
 ]
 
 def field_to_vec(field: Field):
-    return list(enum_to_one_hot(Field, field))
+    return enum_to_one_hot(Field, field)
 
 def fields_to_vec(fields: Dict[Field, int], turn: int):
     vector = np.zeros(len(Field), dtype=int)
@@ -110,7 +110,7 @@ def fields_to_vec(fields: Dict[Field, int], turn: int):
     for value, max_value in zip(vector, field_max_values):
         features.append(np.eye(max_value + 1)[value])
 
-    return list(np.concatenate(features, axis=0))
+    return np.concatenate(features, axis=0).tolist()
 
 
 # SIDE CONDITIONS
@@ -142,7 +142,7 @@ side_condition_max_values = [
 ]
 
 def side_condition_to_vec(side_condition: SideCondition):
-    return list(enum_to_one_hot(SideCondition, side_condition))
+    return enum_to_one_hot(SideCondition, side_condition)
 
 def side_conditions_to_vec(side_conditions: Dict[SideCondition, int], turn: int):
     vector = np.zeros(len(SideCondition), dtype=int)
@@ -157,7 +157,7 @@ def side_conditions_to_vec(side_conditions: Dict[SideCondition, int], turn: int)
     for value, max_value in zip(vector, side_condition_max_values):
         features.append(np.eye(max_value + 1)[value])
 
-    return list(np.concatenate(features, axis=0))
+    return np.concatenate(features, axis=0).tolist()
 
 
 

@@ -2,7 +2,8 @@ import asyncio
 
 from poke_env import RandomPlayer
 from poke_env.player import Player
-from poke_env.battle import Battle
+from poke_env.environment.battle import Battle
+from poke_env.player.battle_order import BattleOrder
 
 from agent.model.timestep_encoder import TimestepEncoder
 
@@ -21,7 +22,7 @@ class MaxDamagePlayer(Player):
             if battle.can_tera:
                 return self.create_order(best_move, terastallize=True)
 
-            return self.create_order(best_move)
+            return self.create_order(best_move, terastallize=battle.can_tera is not None)
         else:
             return self.choose_random_move(battle)
 

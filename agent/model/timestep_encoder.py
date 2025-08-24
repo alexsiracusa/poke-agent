@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 from typing import List, Optional
-from poke_env.battle import Battle, Pokemon
+from poke_env.environment.battle import Battle, Pokemon
 
 from agent.util import pad, flatten_list
 from agent.model.feature_lookup import FeatureLookup
@@ -71,7 +71,7 @@ class TimestepEncoder(nn.Module):
             poke.boosts['spa'] / 6,               # 1
             poke.boosts['spd'] / 6,               # 1
             poke.boosts['spe'] / 6,               # 1
-            effects_to_vec(poke.effects),         # 224
+            effects_to_vec(poke.effects),         # 230   (224 in original poke-env)
             poke.first_turn,                      # 1
             poke.is_terastallized,                # 1
             pokemon_type_to_vec(poke.tera_type),  # 20
@@ -86,7 +86,7 @@ class TimestepEncoder(nn.Module):
             (poke.stats['spe'] or -500) / 500,    # 1
             status_to_vec(poke.status),           # 7
             poke.status_counter,                  # 1
-        ])) if poke is not None else torch.zeros(338) for poke in pokemon])
+        ])) if poke is not None else torch.zeros(344) for poke in pokemon])
 
         abilities = self.ability_embeddings(torch.tensor([
             self.lookup.abilities[poke.ability or 'unknown' if poke else 'nothing'] for poke in pokemon
@@ -118,14 +118,15 @@ class TimestepEncoder(nn.Module):
 
     def _encode_battle_state(self, battle: Battle) -> torch.Tensor:
         tensor = torch.tensor(flatten_list([
-            battle.turn,                                                           # 1
-            weathers_to_vec(battle.weather, battle.turn),                          # 9
-            fields_to_vec(battle.fields, battle.turn),                             # 13
-            side_conditions_to_vec(battle.opponent_side_conditions, battle.turn),  # 24
-            side_conditions_to_vec(battle.side_conditions, battle.turn),           # 24
-            battle.reviving,                                                       # 1
-            battle.used_tera,                                                      # 1
-            battle.opponent_used_tera,                                             # 1
+            battle.turn,                                                            # 1
+            weathers_to_vec(battle.weather, battle.turn),                           # 9
+            fields_to_vec(battle.fields, battle.turn),                              # 13
+            side_conditions_to_vec(battle.opponent_side_conditions, battle.turn),   # 24
+            side_conditions_to_vec(battle.side_conditions, battle.turn),            # 24
+            battle.reviving,                                                        # 1
+            pokemon_type_to_vec(battle.can_tera),                                   # 20
+            battle.opponent_can_tera,                                               # 1
+            battle.force_switch,                                                    # 1
         ]))
 
         return tensor
