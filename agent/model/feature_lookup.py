@@ -43,7 +43,7 @@ class FeatureLookup:
 
 
 if __name__ == '__main__':
-    lookup = FeatureLookup(path='../data')
+    lookup = FeatureLookup(path='../../data')
 
     print(lookup.move_tensors[210])
     print(lookup.moves['flamethrower'])

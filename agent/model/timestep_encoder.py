@@ -1,12 +1,12 @@
 import torch
 import torch.nn as nn
 from typing import List, Optional
-from poke_env.battle import Battle, Pokemon, PokemonType
+from poke_env.battle import Battle, Pokemon
 
-from util import pad, flatten_list
-from feature_lookup import FeatureLookup
-from hybrid_embedding import HybridEmbedding
-from to_vec import gender_to_vec, effects_to_vec, pokemon_type_to_vec, status_to_vec, weathers_to_vec, fields_to_vec, side_conditions_to_vec
+from agent.util import pad, flatten_list
+from agent.model.feature_lookup import FeatureLookup
+from agent.model.hybrid_embedding import HybridEmbedding
+from agent.model.to_vec import gender_to_vec, effects_to_vec, pokemon_type_to_vec, status_to_vec, weathers_to_vec, fields_to_vec, side_conditions_to_vec
 
 
 NUM_ABILITIES = 313
@@ -162,7 +162,7 @@ class TimestepEncoder(nn.Module):
 
 
 if __name__ == '__main__':
-    model = TimestepEncoder(path='../data')
+    model = TimestepEncoder(path='../../data')
 
     print(model._encode_pokemon_species(['ivysaur', 'venusaur']).shape)
 

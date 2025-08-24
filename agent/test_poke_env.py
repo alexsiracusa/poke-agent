@@ -4,10 +4,9 @@ from poke_env import RandomPlayer
 from poke_env.player import Player
 from poke_env.battle import Battle
 
-from timestep_encoder import TimestepEncoder
+from agent.model.timestep_encoder import TimestepEncoder
 
-from teams import team_1, team_2, team_3, team_4
-
+from teams import team_1, team_2
 
 encoder = TimestepEncoder('../data')
 
