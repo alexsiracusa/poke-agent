@@ -18,7 +18,8 @@ from gymnasium.spaces import Space, Box
 
 class RandomGen9EnvPlayer(Gen9EnvSinglePlayer):
     def embed_battle(self, battle: Battle):
-        return np.array([0])
+        # return np.array([0])
+        return battle
 
     def complete_current_battle(self):
         self.current_battle = None
